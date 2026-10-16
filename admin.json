@@ -3,6 +3,10 @@
     "up_bashir_0cc0": {
       "allowDup": true,
       "allowConfirm": true
+    },
+    "up_test_6b66": {
+      "allowDup": false,
+      "allowConfirm": false
     }
   },
   "defaults": {
