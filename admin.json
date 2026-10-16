@@ -5,7 +5,7 @@
       "allowConfirm": true
     },
     "up_test_6b66": {
-      "allowDup": false,
+      "allowDup": true,
       "allowConfirm": true
     }
   },
