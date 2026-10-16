@@ -1,0 +1,14 @@
+{
+  "gid": "up_test_6b66",
+  "email": "",
+  "name": "test",
+  "picture": "",
+  "createdAt": 1792185811927,
+  "lastSeen": 1792185811927,
+  "slot": 1,
+  "plan": {
+    "type": "pro",
+    "at": 1792185825366,
+    "expires": 1794777825366
+  }
+}
