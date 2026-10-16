@@ -2,7 +2,7 @@
   "users": {
     "up_bashir_0cc0": {
       "allowDup": true,
-      "allowConfirm": false
+      "allowConfirm": true
     }
   },
   "defaults": {
