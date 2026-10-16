@@ -1,5 +1,10 @@
 {
-  "users": {},
+  "users": {
+    "up_bashir_ae0d": {
+      "allowDup": true,
+      "allowConfirm": true
+    }
+  },
   "defaults": {
     "allowDup": false,
     "allowConfirm": false
