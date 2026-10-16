@@ -10,7 +10,7 @@
     }
   },
   "defaults": {
-    "allowDup": false,
-    "allowConfirm": false
+    "allowDup": true,
+    "allowConfirm": true
   }
 }
