@@ -1,0 +1,38 @@
+{
+  "list": [
+    {
+      "id": "rc_1792237686986_73pj9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Hesab",
+        "bankBranch": "",
+        "amount": "30.00",
+        "currency": "AFN",
+        "date": "17/10/2026",
+        "time": "15:29",
+        "trackingNo": "0052335001792234766",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "+93 745 872 028",
+        "senderIban": "",
+        "receiverName": "+93 779 497 327",
+        "receiverIban": "",
+        "description": "Operation successful",
+        "bankKey": "",
+        "ocrConfidence": 35,
+        "fingerprint": "GN|20261017|15:29|30"
+      },
+      "sender": "118631895683295",
+      "timestamp": 1792237686986,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363432131001806@g.us",
+        "fromMe": false,
+        "id": "AC53789984BC8D9F1F5246D586B7E7DB",
+        "participant": "118631895683295@lid",
+        "participantAlt": "93776400086@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    }
+  ]
+}
