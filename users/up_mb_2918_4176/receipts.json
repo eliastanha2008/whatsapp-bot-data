@@ -6663,6 +6663,108 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792354264946_igzgv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "GİMAT",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "23:06:23",
+        "trackingNo": "6842000402",
+        "receiptNo": "2026-10-18-23.06.14.206149",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR830006200032500000864620",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|23:06:23|4000|TR440001500158007391459193"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792354264946,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AF04EC246C9AE06BA24",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792354327290_n3bjg",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "23:09:18",
+        "trackingNo": "2026014585187499",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YAKUP ERBEYİ",
+        "senderIban": "TR9100015001583659",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|23:09:18|4800|TR440001500158007391459193"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792354327290,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AF21476A2E766992812",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792354587020_b654d",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4490",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "23:11:07",
+        "trackingNo": "517803229538",
+        "receiptNo": "3420926105",
+        "referenceCode": "SYJ202621831506",
+        "senderName": "ENVER GÜNDÜZ",
+        "senderIban": "TR65000670100000022505159",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|23:11:07|4490|TR350001500158007362279"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792354587020,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A76E045AB5B863F820D",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
