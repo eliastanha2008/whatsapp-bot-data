@@ -5371,6 +5371,108 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792341592081_gyzmm",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4980",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "19:35:38",
+        "trackingNo": "517803983251",
+        "receiptNo": "SYJ202621709173",
+        "referenceCode": "925-1057956 / 2549234716887",
+        "senderName": "HAMZA KILIÇ",
+        "senderIban": "TR84000670100000416937178",
+        "receiverName": "zabet Qurbani",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|19:35:38|4980|TR190001009011187236505001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792341592081,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A53B4C5F0AA1D19005E",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792341654404_y3kns",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2528/BUGDAY PAZARI/KONYA SUBESI",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "19:36:58",
+        "trackingNo": "7470072808",
+        "receiptNo": "",
+        "referenceCode": "F18224",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "FERHAT ÇELİK",
+        "receiverIban": "TR980001002528883161075001",
+        "description": "4.800,00 TRY tutarinda Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|19:36:58|4800|TR980001002528883161075001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792341654404,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AD736646E461A0BABD6",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792341656883_hg6km",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4158.37",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "19:38:55",
+        "trackingNo": "TR130004601190888000518138",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ORHUN BURAK CAN DİDİKOĞLU",
+        "senderIban": "TR88119005018138",
+        "receiverName": "Zinat Nazari",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261018|19:38:55|4158.37|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792341656883,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5E5E6A7CE18113E32750A7D0ADB07B3",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
