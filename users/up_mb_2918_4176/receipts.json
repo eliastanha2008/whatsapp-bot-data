@@ -2107,6 +2107,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792323868920_oy239",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank",
+        "bankBranch": "",
+        "amount": "3950",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "14:43:07",
+        "trackingNo": "634763395885785088",
+        "receiptNo": "",
+        "referenceCode": "18102026-9300-20735804",
+        "senderName": "ADEM YILMAZ",
+        "senderIban": "TR640013400001498545600001",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|14:43:07|3950|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792323868920,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AEA012C32CBEEC87FBB",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
