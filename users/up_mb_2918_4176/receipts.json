@@ -373,6 +373,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792313887045_zcl9b",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "AKSARAY",
+        "amount": "11000.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "11:56:40",
+        "trackingNo": "4616000085",
+        "receiptNo": "2026-10-18-11.56.38.273999",
+        "referenceCode": "",
+        "senderName": "MUSTAFA ALAER",
+        "senderIban": "TR400006200059100006636405",
+        "receiverName": "ZABET QURBANI",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "YALNIZ OnBirBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|11:56:40|11000|TR190001009011187236505001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792313887045,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AB8DCE203A79CD15DFC",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
