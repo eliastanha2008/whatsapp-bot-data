@@ -5847,6 +5847,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792345016745_j563v",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "04030 SINCAN/ANKARA",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "10:40:55",
+        "trackingNo": "4320000274",
+        "receiptNo": "2026-10-18-40.55.733590",
+        "referenceCode": "255711441136",
+        "senderName": "YAGAN KML CO./SINCAN",
+        "senderIban": "TR530006200154050006483403",
+        "receiverName": "EDAN BASKAKI",
+        "receiverIban": "TR880001000198057392630594",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|10:40:55|4000|TR880001000198057392630594"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792345016745,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5A18CA7E615BC6EC40EE163211E08CF",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
