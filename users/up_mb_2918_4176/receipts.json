@@ -577,6 +577,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792315653435_teb34",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "12:19:33",
+        "trackingNo": "634727269085003776",
+        "receiptNo": "18102026-9300-16546894",
+        "referenceCode": "",
+        "senderName": "İHSAN ÇETİN",
+        "senderIban": "TR110013400002610100700001",
+        "receiverName": "ZABET QURBANİ",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|12:19:33|4500|TR190001009011187236505001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792315653435,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A4B5069E540568550C6",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
