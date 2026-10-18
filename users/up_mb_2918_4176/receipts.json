@@ -3739,6 +3739,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792333518986_x8t1w",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "17:24:33",
+        "trackingNo": "254928040337",
+        "receiptNo": "3420119064",
+        "referenceCode": "SYJ202621598901",
+        "senderName": "ÖMER CAN ÇAL",
+        "senderIban": "TR52000670100000047322164",
+        "receiverName": "Zinat Nazari",
+        "receiverIban": "TR80000150015800739203030554",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|17:24:33|4300|TR80000150015800739203030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792333518986,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5AFD5EE631AA0CC81149DB0E3C19206",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
