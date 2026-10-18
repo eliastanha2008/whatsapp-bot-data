@@ -6493,6 +6493,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792351094724_012xd",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0030/AMASYA ŞUBESİ",
+        "amount": "20000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "22:17:12",
+        "trackingNo": "7470811389",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ZABET QURBANI",
+        "senderIban": "TR190001009011187236505001",
+        "receiverName": "MOHAMMAD NASIM YAQOBI",
+        "receiverIban": "TR750001500158007341893672",
+        "description": "YIRMİBİNONALTITLİYEFTİALTİKR",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|22:17:12|20000|TR750001500158007341893672"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792351094724,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "3A1D4411DFACE07AA32C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
