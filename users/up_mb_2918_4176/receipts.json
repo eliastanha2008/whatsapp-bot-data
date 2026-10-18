@@ -1189,6 +1189,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792319187864_nnb3k",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "AKSARAY",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "13:25:51",
+        "trackingNo": "1652000139",
+        "receiptNo": "2026-10-18-13.25.41.830615",
+        "referenceCode": "",
+        "senderName": "MUSA DÖLEK",
+        "senderIban": "TR540006200059100006854112",
+        "receiverName": "KHAN MOHAMMAD TURKMAN",
+        "receiverIban": "TR660001000261913484945501",
+        "description": "YALNIZ AltıBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|13:25:51|6000|TR660001000261913484945501"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792319187864,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AC85CFDAB720A858B63",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
