@@ -5575,6 +5575,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792342525036_sz3c9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "NATOYOLU / ANKARA",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "19:51:02",
+        "trackingNo": "3906000287",
+        "receiptNo": "2026-10-18-19.50.59.673119",
+        "referenceCode": "",
+        "senderName": "HAMİT DÖNMEZ",
+        "senderIban": "TR660006200125700006883158",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422255003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|19:51:02|2000|TR230001009010309422255003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792342525036,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A0EB2CFEF765FBBF834",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
