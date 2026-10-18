@@ -3161,6 +3161,108 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792329694939_3v6r1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "16:18",
+        "trackingNo": "4907969631",
+        "receiptNo": "202610194299384",
+        "referenceCode": "03663-03663-1014330844",
+        "senderName": "Ramazan Yumuk",
+        "senderIban": "TR620015700000000204795393",
+        "receiverName": "Zabet Qurbanı",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4907969631"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792329694939,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A24512EE8FFD33A7F3B",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792329696674_f4frz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1916/BİNKONUTLAR/KONYA ŞUBESİ",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "16:20:23",
+        "trackingNo": "7468976018",
+        "receiptNo": "",
+        "referenceCode": "F27632",
+        "senderName": "KENAN BATMAZ",
+        "senderIban": "TR270001001916775997695005",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "4.500.00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|16:20:23|4500|TR440001500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792329696674,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2ADE7F98BCA13F953C0D",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792330027777_bf8kp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ATATÜRK CADDESİ SİNCAN/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "16:25:04",
+        "trackingNo": "7469074164",
+        "receiptNo": "",
+        "referenceCode": "F10742",
+        "senderName": "",
+        "senderIban": "TR270001001754619973995013",
+        "receiverName": "MERT AYHAN",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "ZİNAT NAZARI",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|16:25:04|4000|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792330027777,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5CDB61ED9A319407C0E042AE3C32971",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
