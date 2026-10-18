@@ -1393,6 +1393,108 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792319824899_y85i6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "BINKONUTLAR/KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "13:34:23",
+        "trackingNo": "F24087",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "EBUBEKİR FURKAN SARI",
+        "senderIban": "TR880001001916548768695004",
+        "receiverName": "KHAN MOHAMMAD TURKMAN",
+        "receiverIban": "TR660001000261913484945001",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|13:34:23|5000|TR660001000261913484945001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792319824899,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A05339DB800BAEBAA1B",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792319830152_ryw9b",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KARATAY SANAYI",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "13:30:07",
+        "trackingNo": "7272000129",
+        "receiptNo": "2026-10-18-13.30.05.026471",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR640006200051900006645063",
+        "receiverName": "KHAN MOHAMMAD TURKMAN",
+        "receiverIban": "TR660001000261913484945001",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|13:30:07|4800|TR660001000261913484945001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792319830152,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A9D884BE61949F42FAE",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792319924845_xo80i",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "13:38:10",
+        "trackingNo": "254922605490",
+        "receiptNo": "3419500657",
+        "referenceCode": "SYJ202621406785",
+        "senderName": "TAHSİN YİĞİT ÇÖMEZ",
+        "senderIban": "TR20000670100000031128299",
+        "receiverName": "zinnat nazari",
+        "receiverIban": "TR800001500158007392030",
+        "description": "ELEKTRONİK FON TRANSFERI (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|13:38:10|4000|TR800001500158007392030"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792319924845,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5F28493D5FF68F1A91D3DC3E55B96E4",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
