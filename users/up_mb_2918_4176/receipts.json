@@ -1,0 +1,38 @@
+{
+  "list": [
+    {
+      "id": "rc_1792311259029_m8lm7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1013/AKÖREN/KONYA ŞUBESİ",
+        "amount": "4900.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "11:11:54",
+        "trackingNo": "F03083",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MUHAMMET DOĞAN",
+        "senderIban": "TR880001001013757113645003",
+        "receiverName": "ZABET QURBANI",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "30-AMASYA ŞUBESİ",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|11:11:54|4900|TR190001009011187236505001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792311259029,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AC9E951A403671AC0A5",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    }
+  ]
+}
