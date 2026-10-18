@@ -713,6 +713,142 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792316201363_62ccm",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "NATOYOLU ŞUBESİ",
+        "amount": "3490.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "12:34:56",
+        "trackingNo": "2026101799966204",
+        "receiptNo": "01327-1502208",
+        "referenceCode": "T99148",
+        "senderName": "UGUR EMİROĞLU",
+        "senderIban": "TR0600011100000000161788640",
+        "receiverName": "ZİMAT NAZARİ TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+        "receiverIban": "TR8000015001580073923030554",
+        "description": "3.3.1 EFT ÜCRETİ(BSMV DAHİL) : 8.35 TL SORGU NO: 17293810709",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|12:34:56|3490|TR8000015001580073923030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792316201363,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A56736D71EC27FF59C112ADBEA9E13E3",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792316203223_q1rtt",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4000.00",
+        "currency": "TRY",
+        "date": "18/10/2026",
+        "time": "12:34:11",
+        "trackingNo": "3852992028",
+        "receiptNo": "4510530033227",
+        "referenceCode": "18.10.2026/447/8888/8888",
+        "senderName": "İSMAİL İŞLEK",
+        "senderIban": "TR680006400000145100362331",
+        "receiverName": "Khan Mohammad turkman",
+        "receiverIban": "TR66000261913484945001",
+        "description": "İSMAİL İŞLEK tarafından aktarılan",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|12:34:11|4000|TR66000261913484945001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792316203223,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AE01D097D62FAD0F040",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792316205048_j76ix",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ATATÜRK BULV AKSARAY",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "12:31:48",
+        "trackingNo": "7943000110",
+        "receiptNo": "2026-10-18-12.31.46.547217",
+        "referenceCode": "",
+        "senderName": "MİTHAT KARLIER",
+        "senderIban": "TR250006200151200006666602",
+        "receiverName": "KHAN MOHAMMAD TURKMAN",
+        "receiverIban": "TR660001000261913484945501",
+        "description": "YALNIZ AltıBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|12:31:48|6000|TR660001000261913484945501"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792316205048,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A4E954AEED40EFA5F20",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792316689361_cw1x6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "NALÇACI",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "12:42:43",
+        "trackingNo": "6459000092",
+        "receiptNo": "2026-10-18-12.42.41.115485",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR030006200041900006999838",
+        "receiverName": "KHAN MOHAMMAD TURKMAN",
+        "receiverIban": "TR660001000261913484945501",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|12:42:43|4500|TR660001000261913484945501"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792316689361,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A0B9D4CAF6DCC1DC83E",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
