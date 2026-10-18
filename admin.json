@@ -15,6 +15,10 @@
     "up_mb_2918_4176": {
       "allowDup": true,
       "allowConfirm": true
+    },
+    "up_mb_9134_64b8": {
+      "allowDup": true,
+      "allowConfirm": true
     }
   },
   "defaults": {
