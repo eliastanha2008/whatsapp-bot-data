@@ -3535,6 +3535,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792331643481_jq6ek",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "6000.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "16:52:59",
+        "trackingNo": "3016407406",
+        "receiptNo": "",
+        "referenceCode": "2026014573447916",
+        "senderName": "ADEM ÇELEN",
+        "senderIban": "TR660001000261913484945001",
+        "receiverName": "Khan Mohammad Turkman",
+        "receiverIban": "",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|16:52:59|6000"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792331643481,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AD72E155EF43FD934D1",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
