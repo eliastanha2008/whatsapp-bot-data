@@ -4589,6 +4589,142 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792338616305_fk65i",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "18:45:33",
+        "trackingNo": "3853766848",
+        "receiptNo": "450024007906",
+        "referenceCode": "18.10.2026/447/8888/8888",
+        "senderName": "MESUT UĞURLU",
+        "senderIban": "TR800006400000145004080885",
+        "receiverName": "Khan Mohammad Turkman",
+        "receiverIban": "TR66000261913484945001",
+        "description": "MESUT UĞURLU tarafından aktarılan",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|18:45:33|5000|TR66000261913484945001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792338616305,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AC22FE6E988BF145481",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792338683752_3vwrz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4000.00",
+        "currency": "TRY",
+        "date": "18/10/2026",
+        "time": "11:34:02",
+        "trackingNo": "3852889717",
+        "receiptNo": "420423004128",
+        "referenceCode": "18.10.2026/447/8888/8888",
+        "senderName": "YUSUF KARATAŞ",
+        "senderIban": "TR08000640000014204014534",
+        "receiverName": "Zint nazari",
+        "receiverIban": "TR80000158007392030554",
+        "description": "YUSUF KARATAŞ tarafından aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|11:34:02|4000|TR80000158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792338683753,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AA6C0D3DF5EB52A8D68",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792338685658_05fwu",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "12000.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "18:48:39",
+        "trackingNo": "3016637861",
+        "receiptNo": "",
+        "referenceCode": "2026014577261604",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR850001009010197850705001",
+        "receiverName": "Usama Aydin Ahmed Fatah",
+        "receiverIban": "",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|18:48:39|12000"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792338685658,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "3A2BF1423AAFB4F4136B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792338807826_6uyqb",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "18:50",
+        "trackingNo": "4908293432",
+        "receiptNo": "202610195685566",
+        "referenceCode": "03663-03663-1014593084",
+        "senderName": "Bayram Yaradan",
+        "senderIban": "TR1100157000000000126588994",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4908293432"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792338807826,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A56C2894ED9653859832C276425BB767",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
