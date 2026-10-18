@@ -3263,6 +3263,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792330649026_5yedn",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "OSTİM BULVARI ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "16:30:27",
+        "trackingNo": "1717948893",
+        "receiptNo": "01326-1392372",
+        "referenceCode": "202610141245767",
+        "senderName": "YASİN KOLCU",
+        "senderIban": "TR5900011100000000156090197",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR3500015001580073622279815",
+        "description": "Bireysel Ode",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|16:30:27|4000|TR3500015001580073622279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792330649026,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A9A7A2CE1E936379E18",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
