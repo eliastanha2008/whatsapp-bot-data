@@ -3297,6 +3297,108 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792330682183_8czn5",
+      "data": {
+        "isReceipt": true,
+        "bank": "TEB",
+        "bankBranch": "CEPTE TEB",
+        "amount": "3700",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "16:37:00",
+        "trackingNo": "00236610",
+        "receiptNo": "30845534",
+        "referenceCode": "767528245",
+        "senderName": "MAHMUT CEVIZLI",
+        "senderIban": "TR2500030000000118649968",
+        "receiverName": "rahmatullah hakimi",
+        "receiverIban": "TR350001500150007362279815",
+        "description": "y",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|16:37:00|3700|TR350001500150007362279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792330682183,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AD850281364E61750CB",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792330684153_eugvt",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SELÇUKLU",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "16:37:07",
+        "trackingNo": "6795000207",
+        "receiptNo": "2026-10-18-16.37.06.126108",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR310006200146400006866360",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|16:37:07|4500|TR440001500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792330684153,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A084BA42FE330B5430E",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792330740035_vo6wy",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "16:37:42",
+        "trackingNo": "2026014572715370",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "FIRAT ÖZFIRAT",
+        "senderIban": "TR4600015001589130",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|16:37:42|5000|TR440001500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792330740035,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A143B5E5C4AAF7B9F75",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
