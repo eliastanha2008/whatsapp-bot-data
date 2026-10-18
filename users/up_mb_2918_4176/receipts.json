@@ -3875,6 +3875,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792334517388_v5wmh",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4200.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "17:41:20",
+        "trackingNo": "2026014574939214",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "GÖZDENUR ENGEZ",
+        "senderIban": "TR62000150015800000000000149",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|17:41:20|4200|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792334517388,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A508455922A25555B8A618E17EC465AF",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
