@@ -2345,6 +2345,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792325565607_d2xdt",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "MERSİN",
+        "amount": "4.600,00",
+        "currency": "TL",
+        "date": "18/10/2024",
+        "time": "15:10:03",
+        "trackingNo": "7378000153",
+        "receiptNo": "48020496",
+        "referenceCode": "104976545828",
+        "senderName": "ARSLANPALA/ARSLANA",
+        "senderIban": "TR040006200020010490006654928",
+        "receiverName": "BİHAN MAMAI",
+        "receiverIban": "TR800001000158007382030554",
+        "description": "KONTENAN HESABI",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20241018|15:10:03|4600|TR800001000158007382030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792325565607,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A577FBE32837496F25CC946213E62CF2",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
