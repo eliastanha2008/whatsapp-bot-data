@@ -1801,6 +1801,108 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792322398849_vt9jg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Cep Şube",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "14:18",
+        "trackingNo": "4907714155",
+        "receiptNo": "202610193251754",
+        "referenceCode": "03663-03663-1014122717",
+        "senderName": "Bünyamin Demirkazma",
+        "senderIban": "TR130015700000000206181726",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR2300010090942205003",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4907714155"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792322398849,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A1955025FF4D6DBB5DC",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792322401047_8ymtg",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ÇAYYOLU",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "14:06:26",
+        "trackingNo": "6723000142",
+        "receiptNo": "2026-10-18-14.06.09.055957",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR940006200114500006642266",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ BeşBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|14:06:26|5000|TR350001500158007362279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792322401047,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A2BE60F0089B1E82C96",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792322515972_pzbqp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1437/ALTINEKİN/KONYA SUBESİ",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "14:20:49",
+        "trackingNo": "F10555",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "NADİR ÖZDEMİR",
+        "senderIban": "TR960001001437298441055005",
+        "receiverName": "ZABET QURBANI",
+        "receiverIban": "TR190001009011187236550501",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|14:20:49|5000|TR190001009011187236550501"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792322515972,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A2AC0A1F15FED46D37F",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
