@@ -6595,6 +6595,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792353614233_q4ebv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SİNCAN",
+        "amount": "3678.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "22:55:23",
+        "trackingNo": "6972000351",
+        "receiptNo": "2026-10-18-22.55.20.595995",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR120006200046500006607178",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|22:55:23|3678|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792353614233,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AA3F0A820909DFB8545",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
