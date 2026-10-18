@@ -7037,6 +7037,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792356774588_mhcpo",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "23:45:57",
+        "trackingNo": "346822",
+        "receiptNo": "34824427",
+        "referenceCode": "",
+        "senderName": "ÖZLEM AKMEŞE",
+        "senderIban": "TR8803120194263",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261018|23:45:57|5000|TR440001500158007391459193"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792356774588,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AEDE89EE19642EFA2B2",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
