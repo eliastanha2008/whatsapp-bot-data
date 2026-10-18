@@ -4419,6 +4419,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792338108830_sj7zd",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "SELÇUKLU/KONYA SUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "18/10/2026",
+        "time": "18:39:58",
+        "trackingNo": "F31346",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ZABET QURBANI",
+        "senderIban": "TR050001000461964028005001",
+        "receiverName": "ALİ EL HALİD",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "30-AMASYA SUBESİ",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|18:39:58|5000|TR190001009011187236505001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792338108830,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AE90F8FBD18231911E4",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
