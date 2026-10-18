@@ -1495,6 +1495,74 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792319955027_qty7v",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "13:38:28",
+        "trackingNo": "2026014584596405",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "AHMET HAKAN ŞAHİN",
+        "senderIban": "TR8800015001584916",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|13:38:28|4000|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792319955027,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A58815ABD1B795996BF10C29CCF5176E",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792320085195_4jah4",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "13:40:45",
+        "trackingNo": "254927337842",
+        "receiptNo": "3419507356",
+        "referenceCode": "SYJ202621407577",
+        "senderName": "İLHAN KUMEK",
+        "senderIban": "TR090006701000000319245948",
+        "receiverName": "Zİnat Nazarı",
+        "receiverIban": "TR800001500158007392030",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|13:40:45|4000|TR800001500158007392030"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792320085195,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A58B170F3455DD4BD9C7E5EAD2BABEF9",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
