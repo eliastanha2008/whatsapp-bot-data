@@ -6119,6 +6119,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792347520137_hn3p1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "BİLKENT",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "21:17:36",
+        "trackingNo": "9078000322",
+        "receiptNo": "2026-10-18-21.17.35.218451",
+        "referenceCode": "",
+        "senderName": "BEKİR KOCAER",
+        "senderIban": "TR120006200039300006837913",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|21:17:36|4000|TR350001500158007362279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792347520137,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A09630EA667618C91D4",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
