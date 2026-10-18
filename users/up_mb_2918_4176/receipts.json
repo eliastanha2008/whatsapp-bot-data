@@ -2821,6 +2821,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792327166509_zynj4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2783/ÇAVDADVENT HATUN/NIĞDE",
+        "amount": "40000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "15:38:40",
+        "trackingNo": "F19860",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "TR23000100901030942205003",
+        "receiverName": "ATOSA SHAHIN",
+        "receiverIban": "TR490001009010129955305001",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|15:38:40|40000|TR490001009010129955305001"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792327166509,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "3A19E837E2214A2C8FFF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
