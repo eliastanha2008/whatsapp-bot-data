@@ -6629,6 +6629,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792354261934_g7mjl",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SİNCAN ÇARŞI",
+        "amount": "3900",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "23:07:47",
+        "trackingNo": "8257000359",
+        "receiptNo": "2026-10-18-23.07.39.007535",
+        "referenceCode": "",
+        "senderName": "HÜSEYİN TANJU ŞAHİN",
+        "senderIban": "TR200006200109100006894419",
+        "receiverName": "ZİNNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|23:07:47|3900|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792354261934,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AFC1A13A75484131362",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
