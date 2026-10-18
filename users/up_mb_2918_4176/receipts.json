@@ -203,6 +203,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792312830994_gsh4w",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2683/HOCACIHAN/KONYA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "22:24:54",
+        "trackingNo": "F16397",
+        "receiptNo": "7466403285",
+        "referenceCode": "",
+        "senderName": "İSMAİL KEKLİK",
+        "senderIban": "TR790001002683607074245002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|22:24:54|4500|TR350001500158007362279815"
+      },
+      "sender": "272933108883617",
+      "timestamp": 1792312830994,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363432105297221@g.us",
+        "fromMe": false,
+        "id": "A5ABAA8B2F14BACFAF354F7441491F60",
+        "participant": "272933108883617@lid",
+        "participantAlt": "93701334744@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
