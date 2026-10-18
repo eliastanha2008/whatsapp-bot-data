@@ -1563,6 +1563,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792320475383_mp401",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DIRECT MOBIL CEP",
+        "amount": "3500.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "13:47:22",
+        "trackingNo": "TR800001500158007392030554",
+        "receiptNo": "10060094628",
+        "referenceCode": "102469414/904766/",
+        "senderName": "Adi Soyadi/Unvan",
+        "senderIban": "TR800001500158007392030554",
+        "receiverName": "Zinat Nazcan",
+        "receiverIban": "",
+        "description": "VALNC UCBIN BESV2DEKR TL OTUYDEK KR",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261018|13:47:22|3500"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792320475384,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A41840247E121AEC946",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
