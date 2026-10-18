@@ -917,6 +917,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792317114032_gknkn",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.S.",
+        "bankBranch": "SENTEPE/YENIMAHALLE",
+        "amount": "4.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "12:49:07",
+        "trackingNo": "6651000116",
+        "receiptNo": "2026-10-18-12.49.04.275751",
+        "referenceCode": "",
+        "senderName": "HÜLYA ÖZCAN",
+        "senderIban": "TR880001000158007392030554",
+        "receiverName": "ZİNNAT HAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|12:49:07|4|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792317114032,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AFD0766B2D51E1CA2DD",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
