@@ -475,6 +475,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792314948655_d2s8w",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "OSTİM AHI EVRAN",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "12:12:01",
+        "trackingNo": "2642000095",
+        "receiptNo": "2026-10-18-12.11.57.551652",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR820006200048100006611658",
+        "receiverName": "ZİNNAT NAZARİ",
+        "receiverIban": "TR80000150015800739203005554",
+        "description": "YALNIZ DörtBinSekizYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|12:12:01|4800|TR80000150015800739203005554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792314948655,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A55B0073C3EBEBBA751141D21A3D9F3A",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
