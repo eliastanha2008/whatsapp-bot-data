@@ -2549,6 +2549,176 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792326369465_mhaji",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2185/HÜRRİYET CADDESİ/BOLU ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "15:18:46",
+        "trackingNo": "F24890",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR560001002185641123505002",
+        "receiverName": "GÜLAY GÜMÜŞ",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "30-AMASYA ŞUBESİ",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|15:18:46|5000|TR190001009011187236505001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792326369465,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AF5E388261E3B0D3BD3",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792326371933_new2u",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "15:20:34",
+        "trackingNo": "AJ5GT-B-20261018223",
+        "receiptNo": "CGR2026001604524",
+        "referenceCode": "9994c4e0-a5b8-4290-9db1-cdb332592414",
+        "senderName": "ALI OSMAN ÇUHADAR",
+        "senderIban": "",
+        "receiverName": "Zabet Qurbani",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "Gönderen: ALI OSMAN ÇUHADAR, Alıcı: Zabet Qurbani , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|15:20:34|4500|TR190001009011187236505001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792326371933,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A4070148795D584EF09",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792326380823_hfqg3",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4998.37",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "15:09:02",
+        "trackingNo": "52663979 / 687672",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "NEVZAT CİVCİV",
+        "senderIban": "TR230004600033888000462512",
+        "receiverName": "Zabet Qurbanı",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261018|15:09:02|4998.37|TR190001009011187236505001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792326380823,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AE4C61C1C3698DF1965",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792326406946_b34jb",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4000.37",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "15:26:01",
+        "trackingNo": "53127656 / 707877",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "OĞUZHAN ORDU",
+        "senderIban": "TR680004600305888000306482",
+        "receiverName": "Zinat Nazari",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261018|15:26:01|4000.37|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792326406946,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A2EA5F75B10A166F5D3",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792326457775_pwps5",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "3900",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "15:26:56",
+        "trackingNo": "254928037076",
+        "receiptNo": "SYJ202621491274",
+        "referenceCode": "925-1637978 / 2549231553195",
+        "senderName": "BURAK ÇELİKSOY",
+        "senderIban": "TR20000670100000098648156",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|15:26:56|3900|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792326457775,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A1394449946B9DF55B7",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
