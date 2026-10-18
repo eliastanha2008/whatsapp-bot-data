@@ -4317,6 +4317,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792337623298_e8yyt",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "18:30:49",
+        "trackingNo": "634820701041623040",
+        "receiptNo": "",
+        "referenceCode": "2290-1126629-355",
+        "senderName": "İBRAHİM KOÇAK",
+        "senderIban": "TR060013400001126629100041",
+        "receiverName": "ZABET QURBANİ",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "yaşar demiryak için ödeme",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|18:30:49|4500|TR190001009011187236505001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792337623298,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AEA2DF98B62D7DFFC65",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
