@@ -1019,6 +1019,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792317559007_qarrg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1935/EMNİYET CADDESİ/ŞANLIURFA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "12:57:56",
+        "trackingNo": "7467896651",
+        "receiptNo": "F35772",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR340001001935870464695002",
+        "receiverName": "BÜŞRA ESİN",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "zınat nazar",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|12:57:56|4000|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792317559007,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5E7DC043186C65D10BC8860D2579B20",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
