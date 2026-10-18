@@ -2243,6 +2243,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792324933960_6c1yg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "15:01",
+        "trackingNo": "4907804650",
+        "receiptNo": "202610193618396",
+        "referenceCode": "03663-03663-1014196850",
+        "senderName": "Kübra Akay",
+        "senderIban": "TR5300157000000000132713400",
+        "receiverName": "Khan Mohammad Turkman",
+        "receiverIban": "TR660001000261913484945001",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4907804650"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792324933960,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A79D232534480004B15",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
