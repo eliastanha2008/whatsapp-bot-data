@@ -2719,6 +2719,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792326635792_a688u",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4287.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "15:28:48",
+        "trackingNo": "1669542225",
+        "receiptNo": "M-2026-10-18-15.28.48.339173",
+        "referenceCode": "",
+        "senderName": "MEHMET CAN DAMAR",
+        "senderIban": "TR090001200958900001062836",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392036554",
+        "description": "GİDEN FAST - MEHMET CAN DAMAR TARAFINDAN GÖNDERİLEN",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|15:28:48|4287|TR800001500158007392036554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792326635792,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5351AB9B64B357CAC3A357AFC343A35",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
