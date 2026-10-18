@@ -7173,6 +7173,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792358783660_ziefo",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SİNCAN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "00:24:49",
+        "trackingNo": "3999000002",
+        "receiptNo": "2026-10-19-00.24.46.463243",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR100006200046500006846416",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|00:24:49|4000|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792358783660,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A98657B6E3DE89CCE56",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
