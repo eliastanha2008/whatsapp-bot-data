@@ -4215,6 +4215,74 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792336858804_p3t3l",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "OSTİM AHI EVRAN",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "18:19:33",
+        "trackingNo": "6267000270",
+        "receiptNo": "2026-10-18-18.19.28.755652",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR820006200048100006611658",
+        "receiverName": "ZİNNAT NAZARİ",
+        "receiverIban": "TR80000150015800739203005554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|18:19:33|4500|TR80000150015800739203005554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792336858804,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A542DBDF6998104BE0FE12F5836C14B3",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792336872668_vqsqe",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0172/BEYŞEHİR/KONYA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "18:20:35",
+        "trackingNo": "F24060",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR580001000172654581635003",
+        "receiverName": "İSMÂİL USLU",
+        "receiverIban": "TR660001000261913484945001",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|18:20:35|4000|TR660001000261913484945001"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792336872668,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A6C5CB32C5A37C3E57A",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
