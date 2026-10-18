@@ -509,6 +509,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792315208753_pkgxp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1912/ERYAMAN/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "18/10/2026",
+        "time": "12:18:16",
+        "trackingNo": "74677767656",
+        "receiptNo": "F09372",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR720001001912857220295001",
+        "receiverName": "ZİNAAT NAZ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Hesabınızdan 4.008,37 TL (Yalnız DÖRTBİNSEKİZLOTUTZEDİK) 18/10/2026-12:18:24 EFTTGIDD INTERNET INTERNET",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|12:18:16|4000|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792315208753,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AF651D8F8EA140AFDCD",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
