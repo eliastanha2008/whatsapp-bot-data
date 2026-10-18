@@ -2413,6 +2413,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792325807169_shq3y",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "15:16:06",
+        "trackingNo": "2026014570174937",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ERKAN TAN YILMAZ",
+        "senderIban": "TR18000150015840",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|15:16:06|4500|TR350001500158007362279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792325807169,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A14FF2D29E02C1C3373",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
