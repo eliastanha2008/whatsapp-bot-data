@@ -6901,6 +6901,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792355983907_nx566",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "HAZİNE MUHAKEBELEME ŞUBESİ 344",
+        "amount": "3800.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "23:30:11",
+        "trackingNo": "222575215",
+        "receiptNo": "202609255569616",
+        "referenceCode": "3343000152",
+        "senderName": "GİB",
+        "senderIban": "TR800001500158073902335554",
+        "receiverName": "ZİNAZ NAZARİ",
+        "receiverIban": "",
+        "description": "GELİR VERGİSİ - ÖDENMİŞ",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|23:30:11|3800"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792355983907,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A354F4CABFCDCCE1712",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
