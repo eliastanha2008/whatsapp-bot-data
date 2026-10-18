@@ -5303,6 +5303,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792341136060_vzllg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1330/TUZLUÇAYIR/ANKARA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "19:31:38",
+        "trackingNo": "7469961559",
+        "receiptNo": "",
+        "referenceCode": "F12955",
+        "senderName": "",
+        "senderIban": "TR790001001330924463465001",
+        "receiverName": "MURAT CAN YILMAZ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "4.500,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|19:31:38|4500|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792341136060,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A51F2B36DEC22C6893D7A2B4892157C9",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
