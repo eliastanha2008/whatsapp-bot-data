@@ -679,6 +679,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792316121796_pqiss",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "12:34",
+        "trackingNo": "4907514530",
+        "receiptNo": "03663-03663-1013955427",
+        "referenceCode": "202610192452247",
+        "senderName": "Kamil Çetin",
+        "senderIban": "TR0700157000000000124814451",
+        "receiverName": "Zabet Qurbanı",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4907514530"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792316121796,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A13DE9C908A806F0FE6",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
