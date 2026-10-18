@@ -5473,6 +5473,74 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792341659244_e6q8k",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "19:39:06",
+        "trackingNo": "517806314310",
+        "receiptNo": "SYJ202621710144",
+        "referenceCode": "925-955125 / 2549234727584",
+        "senderName": "HAKKI KÜÇÜKAKTAŞ",
+        "senderIban": "TR10000670100000049812328",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "ELEKTRONİK FON TRANSFERI (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|19:39:06|4300|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792341659244,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A53E7011D4925BC27BE30971D046B4F7",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792341875620_up255",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Çeşitli Şube",
+        "amount": "3500.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "19:39",
+        "trackingNo": "4908391117",
+        "receiptNo": "202610196106236",
+        "referenceCode": "0363-03633-1014674185",
+        "senderName": "ASLIŞAH VALCIN",
+        "senderIban": "TR460015700000000157129299",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Bireysel Ödeme, EFT (FAST)",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4908391117"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792341875620,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A61B6A689B52392D985",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
