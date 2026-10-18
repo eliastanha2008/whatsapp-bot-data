@@ -3569,6 +3569,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792332081800_u8zsk",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ETİMESGUT",
+        "amount": "4.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "16:59:30",
+        "trackingNo": "6640000235",
+        "receiptNo": "2026-10-18-16.59.26.605973",
+        "referenceCode": "",
+        "senderName": "FURKAN KILIÇ",
+        "senderIban": "TR840006400000310284650544",
+        "receiverName": "ZİNAZ NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|16:59:30|4|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792332081800,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A5C5516CDB9274CAC83",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
