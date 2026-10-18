@@ -6289,6 +6289,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792349443355_lubcv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SİNCAÇ ÇARŞI",
+        "amount": "3790.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "21:49:18",
+        "trackingNo": "5483000378",
+        "receiptNo": "2026-10-18-21.49.07.194815",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR200006200109100006894419",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|21:49:18|3790|TR35000158007362279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792349443355,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A666CC3E262A00CE52B",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
