@@ -2515,6 +2515,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792326361460_o762j",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "BÜSAN ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "15:24:39",
+        "trackingNo": "1722037933389",
+        "receiptNo": "01531-1253547",
+        "referenceCode": "202610180852724",
+        "senderName": "MEHMET ACAR",
+        "senderIban": "TR460011100000000104112496",
+        "receiverName": "Khan Mohammad Turkman",
+        "receiverIban": "TR8600010002619134849450",
+        "description": "Bireysel Odeme",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|15:24:39|5000|TR8600010002619134849450"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792326361460,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A858C0DE1A14C600446",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
