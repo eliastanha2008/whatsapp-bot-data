@@ -1291,6 +1291,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792319574229_kvkzr",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "13:29:14",
+        "trackingNo": "29226522",
+        "receiptNo": "574913",
+        "referenceCode": "",
+        "senderName": "FURKAN TUNCAY",
+        "senderIban": "TR610004600005888000497372",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261018|13:29:14|4000|TR350001500158007362279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792319574229,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A5CFE5BF7FB0EE269A6",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
