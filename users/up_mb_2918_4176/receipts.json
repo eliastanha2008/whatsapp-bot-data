@@ -3399,6 +3399,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792330844902_4nffg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0058/BURDUR ŞUBESİ",
+        "amount": "3990.00",
+        "currency": "TRY",
+        "date": "18/10/2026",
+        "time": "16:38:59",
+        "trackingNo": "7469026474",
+        "receiptNo": "F33844",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR410001000058768474825001",
+        "receiverName": "MUHAMMED SALİH ÜNAL",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "zınat naz",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|16:38:59|3990|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792330844902,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A592231858F5FA26C4DFCEC1C97DD46F",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
