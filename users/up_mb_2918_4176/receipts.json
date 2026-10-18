@@ -1223,6 +1223,74 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792319371217_b01rj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KAHRAMANKAZAN",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "13:26:09",
+        "trackingNo": "9959000115",
+        "receiptNo": "2026-10-18-13.26.05.269337",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR740006200132600006670627",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|13:26:09|4500|TR350001500158007362279815"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792319371217,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A3302C60071AA13DE9A",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792319373686_sblke",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "13:24:19",
+        "trackingNo": "46302996 / 569426",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SEVAL ÇETİN",
+        "senderIban": "TR670004600005888000857716",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261018|13:24:19|4000|TR350001500158007362279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792319373686,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AC8D3BB41F7C9F7E0A4",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
