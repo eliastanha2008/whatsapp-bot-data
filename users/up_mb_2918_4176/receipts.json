@@ -543,6 +543,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792315485896_gg8an",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0683/ULUS/ANKARA ŞUBESİ",
+        "amount": "4500.00",
+        "currency": "TRY",
+        "date": "18/10/2026",
+        "time": "12:22:53",
+        "trackingNo": "7467746043",
+        "receiptNo": "",
+        "referenceCode": "F14705",
+        "senderName": "SEBAHATTİN TOKSOY",
+        "senderIban": "TR460001000683652359995001",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|12:22:53|4500|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792315485896,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A513B4AF2E905C5FF27D36BF3CB58C6D",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
