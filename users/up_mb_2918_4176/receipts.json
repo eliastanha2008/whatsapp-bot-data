@@ -2481,6 +2481,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792326099691_ucn5d",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ANKARA OSB",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "15:18:03",
+        "trackingNo": "369000163",
+        "receiptNo": "2026-10-18-15.18.01.089760",
+        "referenceCode": "",
+        "senderName": "FATIH AKI",
+        "senderIban": "TR800001500158007392030554",
+        "receiverName": "ZİHNAT HAZARI",
+        "receiverIban": "TR8073920006882000089029",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|15:18:03|4000|TR8073920006882000089029"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792326099691,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AAAF27B5675D8C5B523",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
