@@ -3943,6 +3943,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792335318507_gg570",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2449/ALTIEYLÜL/BALIKESIR SUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "17:51:15",
+        "trackingNo": "F28173",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR840001002449823359855001",
+        "receiverName": "MÜKREMİN ÇETİN",
+        "receiverIban": "TR190001009011187236550001",
+        "description": "30-AMASYA SUBESİ",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|17:51:15|4000|TR190001009011187236550001"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792335318507,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AEDFC5A284378927D5A",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
