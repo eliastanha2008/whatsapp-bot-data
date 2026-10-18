@@ -5711,6 +5711,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792342871178_cy1m5",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "2000.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "19:59:42",
+        "trackingNo": "TR4000042773888000058837",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "TAYFUN UÇAR",
+        "senderIban": "TR400004600773888000058837",
+        "receiverName": "Zabet Qurbanı",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261018|19:59:42|2000|TR190001009011187236505001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792342871178,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AD32F6103784F150C58",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
