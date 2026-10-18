@@ -2141,6 +2141,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792324289031_y2hsc",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "14:49:31",
+        "trackingNo": "254921893705",
+        "receiptNo": "SYJ202621459225",
+        "referenceCode": "925-1700230 / 2549231218656",
+        "senderName": "HACI GÜNEŞ",
+        "senderIban": "TR38000670100000011989390",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|14:49:31|4000|TR350001500158007362279"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792324289031,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A8F4399CAEF38129ECE",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
