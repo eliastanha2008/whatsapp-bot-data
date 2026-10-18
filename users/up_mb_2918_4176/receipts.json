@@ -5337,6 +5337,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792341517917_ni7qi",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "19:36:48",
+        "trackingNo": "AO1JH-B-20261018428",
+        "receiptNo": "BPZ2026000640245",
+        "referenceCode": "3f10a821-5cb8-43f2-b64f-2233abd8427a",
+        "senderName": "YASIN YAĞCI",
+        "senderIban": "TR230001009010309422205003",
+        "receiverName": "rahmatullah hakimi",
+        "receiverIban": "",
+        "description": "Gönderen: YASIN YAĞCI, Alıcı: rahmatullah hakimi, IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|19:36:48|4000"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792341517917,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A855EDA758AF1CE4B00",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
