@@ -1053,6 +1053,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792318726942_b2lwp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1995/TAŞPAZAR MAHALLESİ/AKSARAY ŞUBESİ",
+        "amount": "6000.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "13:10:07",
+        "trackingNo": "F20684",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ORUÇ KOÇPINAR",
+        "senderIban": "TR670001001995652409335003",
+        "receiverName": "ZABET QURBANI",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "Alacaklı Şube: 30-AMASYA ŞUBESİ",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|13:10:07|6000|TR190001009011187236505001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792318726942,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AA47AFA88145488F7E5",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
