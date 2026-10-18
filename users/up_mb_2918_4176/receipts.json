@@ -4521,6 +4521,74 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792338611582_330tc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "18:40",
+        "trackingNo": "4908273214",
+        "receiptNo": "202610195600812",
+        "referenceCode": "03663-03663-1014576750",
+        "senderName": "Mehmet Küçüktönbül",
+        "senderIban": "TR2100157000000000130161518",
+        "receiverName": "Zabet Qurbanı",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4908273214"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792338611582,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A557099C62927EA4886",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792338613983_xanze",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "18:47",
+        "trackingNo": "4908286931",
+        "receiptNo": "202610195657209",
+        "referenceCode": "03663-03663-1014587199",
+        "senderName": "MUHAMMED TUNÇ",
+        "senderIban": "TR3200157000000000203360042",
+        "receiverName": "Zabet Qurbanı",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4908286931"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792338613983,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AEA63FD9D36B98AB0E0",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
