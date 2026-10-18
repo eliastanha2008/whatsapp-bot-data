@@ -33,6 +33,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792311514023_34gsj",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "MEVLANA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "10:11:36",
+        "trackingNo": "172350",
+        "receiptNo": "202610179419957",
+        "referenceCode": "00421-1910228",
+        "senderName": "AYŞE DURAN",
+        "senderIban": "TR6400111000000000167009591",
+        "receiverName": "Khan Mohammad Turkman",
+        "receiverIban": "TR6600110002619134849450",
+        "description": "Bireysel Ödeme",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|10:11:36|4500|TR6600110002619134849450"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792311514023,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2ABD249A8D1B1DCF70E1",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
