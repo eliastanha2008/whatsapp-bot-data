@@ -6391,6 +6391,108 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792350247110_2k1ya",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "22:02:38",
+        "trackingNo": "517808978608",
+        "receiptNo": "SYJ202621807866",
+        "referenceCode": "925-596495 / 2549235946161",
+        "senderName": "ÖMER AK",
+        "senderIban": "TR44000670100000015650644",
+        "receiverName": "Khan Mohammad turkman",
+        "receiverIban": "TR660001000261913484945",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|22:02:38|5000|TR660001000261913484945"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792350247110,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AD825F2EBD98F036364",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792350919215_xbvup",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "3640.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "22:07:49",
+        "trackingNo": "2026014583438527",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "CANSU AKBABA",
+        "senderIban": "TR390001500158007305653180",
+        "receiverName": "ZİNNAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştiştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|22:07:49|3640|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792350919215,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A59BC0DFAED0B67B9AB37E67623FAF40",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792350921799_v66xa",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "22:04:56",
+        "trackingNo": "517805523989",
+        "receiptNo": "3420810651",
+        "referenceCode": "SYJ202621808354",
+        "senderName": "KÜRSAT ÖZER",
+        "senderIban": "TR68000670100000078632506",
+        "receiverName": "ZİNAT Nazarı",
+        "receiverIban": "TR800001500158007392030354",
+        "description": "ELEKTRONİK FON TRANSFERI (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|22:04:56|4000|TR800001500158007392030354"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792350921799,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5195126463B5540188DCC2C8475BD79",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
