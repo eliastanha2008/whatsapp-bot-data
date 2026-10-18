@@ -2073,6 +2073,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792323736285_ia9y5",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2164/KURTULUŞ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "14:41:29",
+        "trackingNo": "7668457971",
+        "receiptNo": "",
+        "referenceCode": "F15924",
+        "senderName": "",
+        "senderIban": "TR770001002164710461685001",
+        "receiverName": "GÖKTÜRK ZEYDANLI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "ZİNAT N.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261018|14:41:29|4000|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792323736285,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5A9762C88035D2FCE3C4600CCD552E7",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
