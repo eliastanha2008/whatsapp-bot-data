@@ -67,6 +67,108 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792311517015_r87w6",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KARATAY ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "10:28:13",
+        "trackingNo": "202610179468340",
+        "receiptNo": "00422-1338011",
+        "referenceCode": "T99148",
+        "senderName": "EMRAH MANSIZ",
+        "senderIban": "TR86000110000000001436494961",
+        "receiverName": "Khan Mohammad Turkman",
+        "receiverIban": "TR860001000261913484945001",
+        "description": "Bireysel Odeme",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|10:28:13|4500|TR860001000261913484945001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792311517015,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A63107B2841C706B1FA",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792311589378_atq9c",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Cep Şube",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "11:15",
+        "trackingNo": "4907398126",
+        "receiptNo": "202610191973726",
+        "referenceCode": "03663-03663-1013852567",
+        "senderName": "Recep Sarıgüney",
+        "senderIban": "TR490015700000000144733033",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4907398126"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792311589378,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4ACAED2242D1C12E8D8C",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792311790650_fhtli",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "11:22:07",
+        "trackingNo": "2026014560476158",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YUSUF AYTEKİN",
+        "senderIban": "TR350001500158",
+        "receiverName": "ZİNNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|11:22:07|4500|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792311790650,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5A193267FE23DA0DB5F06CCBF463E73",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
