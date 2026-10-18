@@ -6153,6 +6153,74 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792347557058_6g0iz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "YASAR KML CD./SINCAN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "21:07:37",
+        "trackingNo": "4320000274",
+        "receiptNo": "2026-10-18-18.40.55.733590",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR530006200154300006683403",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|21:07:37|4000|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792347557058,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A06B3E4E38F4450E1B7",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792347692175_vxn53",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4200.00",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "21:17:09",
+        "trackingNo": "3016908172",
+        "receiptNo": "",
+        "referenceCode": "2026014582144176",
+        "senderName": "CELAAL YILMAZ",
+        "senderIban": "TR190001009011187236505001",
+        "receiverName": "zabet Qurbarı",
+        "receiverIban": "",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|21:17:09|4200"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792347692175,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A0B1121F10D1B8589A0",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
