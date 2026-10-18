@@ -6255,6 +6255,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792348402569_bex8l",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "21:29:36",
+        "trackingNo": "517801352994",
+        "receiptNo": "SYJ202621790017",
+        "referenceCode": "925-765581 / 2549235659093",
+        "senderName": "ALİ ŞAHİN",
+        "senderIban": "TR97000670100000408878281",
+        "receiverName": "Zabet Qurbani",
+        "receiverIban": "TR19000100901118723650501",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|21:29:36|4200|TR19000100901118723650501"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792348402569,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A3B54B0C01DD7CBD838",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
