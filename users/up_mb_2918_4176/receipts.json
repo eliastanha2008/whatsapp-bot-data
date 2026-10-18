@@ -1155,6 +1155,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792319037149_oo3fl",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "MEVLANA",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "13:22:03",
+        "trackingNo": "3243000112",
+        "receiptNo": "2026-10-18-13.22.00.882484",
+        "referenceCode": "",
+        "senderName": "ÖMER KOÇAK",
+        "senderIban": "TR840006200010100006832160",
+        "receiverName": "KHAN MOHAMMAD TURKMAN",
+        "receiverIban": "TR660001000261913484945001",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|13:22:03|5000|TR660001000261913484945001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792319037149,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2ADE00F9F89C6826820D",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
