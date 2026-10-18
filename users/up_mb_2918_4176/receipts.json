@@ -5541,6 +5541,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792342291321_v6hvp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "19:44",
+        "trackingNo": "4908402334",
+        "receiptNo": "202610196150617",
+        "referenceCode": "03663-03663-1014682734",
+        "senderName": "ESRA DURMUŞ",
+        "senderIban": "TR840015700000000205244495",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4908402334"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792342291321,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A57C5B073CF52F1AA03DD1B6AD4EFB52",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
