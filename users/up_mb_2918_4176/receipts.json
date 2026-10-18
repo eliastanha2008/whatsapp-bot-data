@@ -2175,6 +2175,74 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792324357673_k9ee0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4900",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "14:52:04",
+        "trackingNo": "AITM6-B-20261018156",
+        "receiptNo": "BVP2026001470972",
+        "referenceCode": "4ac2ef4d-5a19-498c-bfa3-0c2c46ae3677",
+        "senderName": "TUNAHAN ÖZKARADAYI",
+        "senderIban": "TR660001000261913484945001",
+        "receiverName": "Khan Mohammad Turkman",
+        "receiverIban": "",
+        "description": "Gönderen: TUNAHAN ÖZKARADAYI , Alıcı: Turkman , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|14:52:04|4900"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792324357673,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A293BA3FA7450964D9B",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792324517703_bv4o3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1995/TASPAZAR MAHALLESI/AKSARAY SUBESI",
+        "amount": "5.000,00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "14:54:08",
+        "trackingNo": "1094922503",
+        "receiptNo": "",
+        "referenceCode": "TR03 0001 0090 1009 9689 7050 01",
+        "senderName": "ZEHRA KOCADAGI",
+        "senderIban": "TR030001009010099689705001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR030001009010309422205003",
+        "description": "2763-HÜDAVENT HATUN/İNÖNÜD ŞUBESİ",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|14:54:08|5000|TR030001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792324517703,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A856AC12C428EB3ED2D",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
