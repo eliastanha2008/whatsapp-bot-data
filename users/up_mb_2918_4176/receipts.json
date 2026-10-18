@@ -5779,6 +5779,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792343477567_qnnwq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Vakıfbank",
+        "bankBranch": "",
+        "amount": "11000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "19:53:56",
+        "trackingNo": "3016760197",
+        "receiptNo": "",
+        "referenceCode": "2026014579361383",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "",
+        "receiverName": "ATOSA Shahin",
+        "receiverIban": "TR490001009010129955305001",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|19:53:56|11000|TR490001009010129955305001"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792343477567,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "3A7C532017D2DADDEB4C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
