@@ -5099,6 +5099,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792340501018_xe305",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "8600.00",
+        "currency": "TRY",
+        "date": "18/10/2026",
+        "time": "19:19:29",
+        "trackingNo": "3853834854",
+        "receiptNo": "450551008051",
+        "referenceCode": "A03202617490367",
+        "senderName": "MUZAFFER YAKIŞAN",
+        "senderIban": "TR510006400000145050715030",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "MUZAFFER YAKIŞAN tarafından aktarılın",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|19:19:29|8600|TR44000158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792340501018,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AE5E22CCF29FF3C51D5",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
