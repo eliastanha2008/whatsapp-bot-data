@@ -8397,6 +8397,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792398786289_on9kl",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KONYA ORG. SAN.",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "11:30:28",
+        "trackingNo": "5188000144",
+        "receiptNo": "2026-10-19-11.30.25.654264",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR450006200146300006680261",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|11:30:28|4500|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792398786289,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AE8FE234F5114E9EEFD",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
