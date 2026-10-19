@@ -11389,6 +11389,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792419821466_3mdmx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "İSTİNYE PARK",
+        "amount": "4800.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "17:20:33",
+        "trackingNo": "7974000379",
+        "receiptNo": "2026-10-19-17.20.31.826914",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR270006200065100006678728",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|17:20:33|4800|TR350001500158007362279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792419821466,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A5B111C6CC5818E75BF",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
