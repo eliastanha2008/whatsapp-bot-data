@@ -8363,6 +8363,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792398526992_fr1cf",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1283/PURSAKLAR/ANKARA ŞUBESİ",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "11:28:07",
+        "trackingNo": "7472735360",
+        "receiptNo": "",
+        "referenceCode": "F35114",
+        "senderName": "",
+        "senderIban": "TR090001001283645042915003",
+        "receiverName": "YUSUF ENSARİ ÖZCAN",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "4.500,00 TRY tutarında Fast İşleminin yapılmasını, Bu işlem tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|11:28:07|4500|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792398526992,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A543E55F314DFB1B2497B72834D8EE18",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
