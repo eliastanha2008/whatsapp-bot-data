@@ -14279,6 +14279,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792442793535_nuf8g",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0706/HAMAMÖNÜ/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "19/10/2026",
+        "time": "23:45:44",
+        "trackingNo": "7477804629",
+        "receiptNo": "",
+        "referenceCode": "F41437",
+        "senderName": "",
+        "senderIban": "TR670001000706888941405001",
+        "receiverName": "ALEV ŞEHREMAN",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "zınat nazar",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|23:45:44|4000|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792442793535,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5B962D313B699051E07361EE8021D8E",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
