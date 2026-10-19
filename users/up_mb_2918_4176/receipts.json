@@ -9927,6 +9927,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792410916424_8e4y5",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1937/ÇUKURAMBAR/ANKARA ŞUBESİ",
+        "amount": "3750",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "14:54:14",
+        "trackingNo": "7474337128",
+        "receiptNo": "17255784548",
+        "referenceCode": "F16995",
+        "senderName": "",
+        "senderIban": "TR8900010039196840435802",
+        "receiverName": "RAMS OZDEMIR",
+        "receiverIban": "TR57568400435002",
+        "description": "zmal nazon",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|14:54:14|3750|TR57568400435002"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792410916424,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A0D9809EB6F40167BF8",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
