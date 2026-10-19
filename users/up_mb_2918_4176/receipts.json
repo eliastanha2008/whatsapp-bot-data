@@ -10607,6 +10607,40 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792415456684_iq7s2",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "12000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "16:09:01",
+        "trackingNo": "3018892854",
+        "receiptNo": "",
+        "referenceCode": "2026014620328024",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "HÜSEYİN SÖNMEZ",
+        "receiverIban": "TR89000620010660000662539",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|16:09:01|12000|TR89000620010660000662539"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792415456684,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "3AE2E7E1AB35A7551D9B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
