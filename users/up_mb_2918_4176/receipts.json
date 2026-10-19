@@ -10403,6 +10403,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792413847175_fbs5d",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "15:42",
+        "trackingNo": "4910284235",
+        "receiptNo": "202610204706085",
+        "referenceCode": "03663-03663-1017866356",
+        "senderName": "Sadi Erdi Ilgaz",
+        "senderIban": "TR450015700000000202469154",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4910284235"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792413847175,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3ABD41E92E310E79A353",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
