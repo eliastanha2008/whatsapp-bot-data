@@ -11695,6 +11695,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792422071727_97jsl",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "NATYOYLU / ANKARA",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "17:58:47",
+        "trackingNo": "2050000412",
+        "receiptNo": "2026-10-19-17.58.45.781360",
+        "referenceCode": "",
+        "senderName": "CUMA UTKU GÜÇTEKİN",
+        "senderIban": "TR110006200125700006672882",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR80000150015800739203005554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|17:58:47|4500|TR80000150015800739203005554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792422071727,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5DBAFAEEACDCDCAC9EC554B8A164EF8",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
