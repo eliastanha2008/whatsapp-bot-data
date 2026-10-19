@@ -11423,6 +11423,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792420006442_s5fr6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "19/10/2026",
+        "time": "17:25:05",
+        "trackingNo": "3856628182",
+        "receiptNo": "425940007733",
+        "referenceCode": "A032026727871977",
+        "senderName": "ERDAL CEBECİ",
+        "senderIban": "TR370006400000142590814488",
+        "receiverName": "ZİNA T NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "ERDAL CEBECİ tarafından aktarılan",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|17:25:05|5000|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792420006442,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A65C067AA136C54F775",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
