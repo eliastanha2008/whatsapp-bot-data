@@ -12001,6 +12001,108 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792423315488_g7j93",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0172/BEYŞEHİR/KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "18:21:15",
+        "trackingNo": "7475999269",
+        "receiptNo": "",
+        "referenceCode": "F44523",
+        "senderName": "",
+        "senderIban": "TR580001000172654581635003",
+        "receiverName": "İSMÂİL USLU",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "5.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|18:21:15|5000|TR440001500158007391459193"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792423315488,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AAB7378AB3235AD2BDF",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792423569902_udhi2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ZAFER",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "18:24:19",
+        "trackingNo": "8558000422",
+        "receiptNo": "2026-10-19-18.24.13.737745",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR850006200077000006972163",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205603",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|18:24:19|4500|TR230001009010309422205603"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792423569902,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A77F1D86381203FBDB1",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792423572384_iqyj1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "MEVLANA",
+        "amount": "8940.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "18:19:15",
+        "trackingNo": "1707000401",
+        "receiptNo": "2026-10-19-18.19.13.380962",
+        "referenceCode": "",
+        "senderName": "MEHMET ÇAYIR",
+        "senderIban": "TR120006200010100006985261",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR23000100901030942220560003",
+        "description": "YALNIZ SekizBinDokuzYüzKırkTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|18:19:15|8940|TR23000100901030942220560003"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792423572384,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AEB6094FCB87B808138",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
