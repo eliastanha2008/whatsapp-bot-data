@@ -7581,6 +7581,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792390629557_d5h5c",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Cep Şube",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "09:15",
+        "trackingNo": "4909145687",
+        "receiptNo": "202610200240275",
+        "referenceCode": "03663-03663-1016833257",
+        "senderName": "Yiğit Uygun",
+        "senderIban": "TR0300157000000000202502308",
+        "receiverName": "Khan Mohammad Turkman",
+        "receiverIban": "TR660001000261913484945001",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4909145687"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792390629557,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AF9F89B04E15F38ABC6",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
