@@ -9723,6 +9723,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792408319101_asz4w",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0026/AKSARAY ŞUBESİ",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "14:11:17",
+        "trackingNo": "F74332",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SEDİR HAN AK",
+        "senderIban": "TR660001009010672730105001",
+        "receiverName": "KHAN MOHAMMAD TURKMAN",
+        "receiverIban": "TR660001000261913484945001",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|14:11:17|5000|TR660001000261913484945001"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792408319101,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A0DBD8AEAF31F1893B1",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
