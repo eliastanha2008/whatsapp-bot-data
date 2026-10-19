@@ -8295,6 +8295,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792398266375_1ph4f",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ATATÜRK CADDESİ SİNCAN/ANKARA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "11:23:12",
+        "trackingNo": "7472673244",
+        "receiptNo": "F16681",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR270001001754619973995013",
+        "receiverName": "MERT AYHAN",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "ZİNAT NAZARI",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|11:23:12|4500|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792398266375,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A545D5B37DFBCC7451C964244E74E5FE",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
