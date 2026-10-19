@@ -13701,6 +13701,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792434781400_yp4vj",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "21:32:02",
+        "trackingNo": "3019786269",
+        "receiptNo": "2026014635134370",
+        "referenceCode": "",
+        "senderName": "YAKUP ERBEYİ",
+        "senderIban": "",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "GOOD",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|21:32:02|5000|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792434781400,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4ACDA5875F92A407A121",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
