@@ -10267,6 +10267,40 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792413310147_nr771",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Cep Şube",
+        "amount": "3070.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "15:32",
+        "trackingNo": "4910249688",
+        "receiptNo": "202610204576624",
+        "referenceCode": "03663-03663-1017837349",
+        "senderName": "KÜBRA AKAY",
+        "senderIban": "TR5300157000000000132713400",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4910249688"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792413310147,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A5BF2C708FD03C55BD8",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
