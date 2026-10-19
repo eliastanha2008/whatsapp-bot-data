@@ -12239,6 +12239,74 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792424162213_lh5m0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "18:33:28",
+        "trackingNo": "F79129",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR900001009010844879405001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Alacaklı Şube : 2783-HÜDAVEND HATUN/NİĞDE ŞUBESİ Alacaklı Hesap : 1030942225003 Alacaklı IBAN : TR23 0001 0090 1030 9422 2050 03 Alacaklı Adı Soyadı : RAHMATULLAH HAKIMI Alacaklı Vergi No : ",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|18:33:28|5000|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792424162213,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A037FF12982F90C5D3F",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792424674466_zggiz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "18:42",
+        "trackingNo": "4910865343",
+        "receiptNo": "202610206885100",
+        "referenceCode": "03663-03663-1018347141",
+        "senderName": "ASLIŞAH YALÇIN",
+        "senderIban": "TR460015700000000157129299",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4910865343"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792424674466,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A52EEA50C36349CF935",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
