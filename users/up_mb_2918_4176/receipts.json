@@ -11049,6 +11049,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792417630359_1deaf",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "3777.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "16:44",
+        "trackingNo": "4910492112",
+        "receiptNo": "202610205464615",
+        "referenceCode": "03663-03663-1018039875",
+        "senderName": "SERHAT TÜRK",
+        "senderIban": "TR2900157000000000205105999",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Aidat ödemesi",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4910492112"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792417630359,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A50047479009939A32C8F5A8BE459F84",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
