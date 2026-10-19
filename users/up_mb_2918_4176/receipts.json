@@ -11627,6 +11627,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792421186210_n2v03",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ATATÜRK BULV AKSARAY",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "17:38:59",
+        "trackingNo": "2026-10-19-17.38.57.737447",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MUSTAFA DİNÇ",
+        "senderIban": "TR520006200151200006623921",
+        "receiverName": "SİNAN GÜNEÇ",
+        "receiverIban": "TR310006200135700006604704",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|17:38:59|5000|TR310006200135700006604704"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792421186211,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A047CEF840F585F719D",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
