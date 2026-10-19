@@ -9485,6 +9485,142 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792407515827_mnk3p",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KARATAY SANAYI",
+        "amount": "4390.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "13:56:20",
+        "trackingNo": "3923000247",
+        "receiptNo": "2026-10-19-13.56.18.972848",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR10000620005190006638857",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|13:56:20|4390|TR440001500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792407515827,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A7DC351155EC51329BB",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792407531324_64ykk",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "13:56:14",
+        "trackingNo": "AL72J-B-20261019210",
+        "receiptNo": "CFK2026001518292",
+        "referenceCode": "",
+        "senderName": "MEHMET CELEP",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: MEHMET CELEP , Alıcı: JAWID USMANI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|13:56:14|4500|TR440001500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792407531324,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A7656FC83D45E761B61",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792407541719_m15ye",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4540",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "13:56:23",
+        "trackingNo": "517810689165",
+        "receiptNo": "925-766829",
+        "referenceCode": "SYJ202622625337",
+        "senderName": "EMİRHAN AYAR",
+        "senderIban": "TR34000670100000096720514",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|13:56:23|4540|TR440001500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792407541719,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A80F5B4B5D880F92A10",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792407629248_hf3ho",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "13:59:24",
+        "trackingNo": "TR930004600401888000160679",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "HAFİZE KARALAR",
+        "senderIban": "TR930004600401888000160679",
+        "receiverName": "Khan Mohammed Turkman",
+        "receiverIban": "TR660001000261913484945001",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261019|13:59:24|5000|TR660001000261913484945001"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792407629248,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A66B1625BA4E27F2EF7",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
