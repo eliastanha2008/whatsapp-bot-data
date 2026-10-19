@@ -8091,6 +8091,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792396434967_ree9g",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "4200.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "10:52:23",
+        "trackingNo": "6350667719997968384",
+        "receiptNo": "",
+        "referenceCode": "19102026 - 9300 - 19085144",
+        "senderName": "HASAN BURHAN",
+        "senderIban": "TR040013400002616277800001",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|10:52:23|4200|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792396434967,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5E1BD94E71730504A25AE84192DDA79",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
