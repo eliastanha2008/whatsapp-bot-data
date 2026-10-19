@@ -10845,6 +10845,74 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792416499632_dy22j",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0811/KEÇİÖREN/ANKARA ŞUBESİ",
+        "amount": "3500.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "16:27:35",
+        "trackingNo": "7475118504",
+        "receiptNo": "",
+        "referenceCode": "F43632",
+        "senderName": "EMRE ERCAN",
+        "senderIban": "TR800001000811849876645001",
+        "receiverName": "ZİNAZ NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "3.500,00 TRY tutarında Fast işlemi",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|16:27:35|3500|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792416499632,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A53E55F26AA6AD6A9FA95A6384ABE089",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792416527220_yzg9w",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "NALÇACI/KONYA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TRY",
+        "date": "19/10/2026",
+        "time": "16:27:59",
+        "trackingNo": "F58110",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MURAT KAVALBACAK",
+        "senderIban": "TR380001000912545024045002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|16:27:59|4000|TR230001009010309422205003"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792416527220,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A7A19DE372C701D1124",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
