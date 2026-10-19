@@ -14245,6 +14245,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792441534730_r1pys",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "23:23:16",
+        "trackingNo": "37943191/966823",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MEVLÜT AKBOSTAN",
+        "senderIban": "TR580004600922888000103443",
+        "receiverName": "Khan Mohammad Turkman",
+        "receiverIban": "TR660001000261913484945001",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261019|23:23:16|4500|TR660001000261913484945001"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792441534730,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A79E532D82637CB07F6",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
