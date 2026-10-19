@@ -14075,6 +14075,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792438186700_e5egs",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ÇUKUROMBAR",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "22:18:29",
+        "trackingNo": "7746000577",
+        "receiptNo": "2026-10-19-22.18.18.346840",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR060006200118300006625812",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "YALNIZ DörtBinBeşYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|22:18:29|4500|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792438186700,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AE04EF22F0D9B7E4BA5",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
