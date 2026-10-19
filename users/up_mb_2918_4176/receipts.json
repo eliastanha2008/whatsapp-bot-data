@@ -13327,6 +13327,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792430837090_tm9vc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ATATÜRK BULVARI",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "20:23:58",
+        "trackingNo": "1482000458",
+        "receiptNo": "2026-10-19-20.23.54.420445",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR670006200071000006802455",
+        "receiverName": "ZİNNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "YALNIZ SekizBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|20:23:58|8000|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792430837090,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A592013A66E614DED4C0EBB6D8F4F38C",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
