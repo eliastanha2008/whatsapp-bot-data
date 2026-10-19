@@ -13871,6 +13871,108 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792436356825_d0usn",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2332/ATAPARK/ANKARA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "21:58:31",
+        "trackingNo": "7477389641",
+        "receiptNo": "F30759",
+        "referenceCode": "",
+        "senderName": "OĞUZHAN YİĞİTER",
+        "senderIban": "TR900001002332509297045004",
+        "receiverName": "ZİNAZ NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "4.000,00 TRY tutarında Fast işlemi",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|21:58:31|4000|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792436356825,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A54BFB833761F316BC2221FE44456412",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792436373630_qr7r5",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "3900.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "21:58:36",
+        "trackingNo": "TR290004600005888000815138",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "BURAK KAVLAK",
+        "senderIban": "TR290004600005888000815138",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261019|21:58:36|3900|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792436373630,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AB7C58F82417E1EF7A5",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792436660940_id8ff",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "3800.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "22:00:43",
+        "trackingNo": "3857350906",
+        "receiptNo": "420434004004",
+        "referenceCode": "19.10.2026/447/8888/8888",
+        "senderName": "YUSUF KARATAŞ",
+        "senderIban": "TR080006400000142040814534",
+        "receiverName": "Zinat nazari",
+        "receiverIban": "TR800001500158007330554",
+        "description": "YUSUF KARATAŞ tarafından aktarılan",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|22:00:43|3800|TR800001500158007330554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792436660940,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AEB89C6C3BED729F5AD",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
