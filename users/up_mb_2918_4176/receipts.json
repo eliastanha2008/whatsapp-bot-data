@@ -12307,6 +12307,40 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792425041255_yzvn3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SİTELER",
+        "amount": "3735.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "18:49:49",
+        "trackingNo": "4520000431",
+        "receiptNo": "2026-10-19-18.49.46.993871",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR470006200001600006628387",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|18:49:49|3735|TR4400015001580073914591"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792425041255,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AE84D7AF12C252846BA",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
