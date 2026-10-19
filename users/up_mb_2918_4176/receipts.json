@@ -10539,6 +10539,74 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792415300384_3h8vu",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "16:03:26",
+        "trackingNo": "1219262",
+        "receiptNo": "01309-1219262",
+        "referenceCode": "202610191663278",
+        "senderName": "EMRE YAZICI",
+        "senderIban": "TR3000011000000000131223799",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Bireysel Odeme",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|16:03:26|5000|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792415300384,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AEA79579F14D92675E3",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792415388298_70kww",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "OSTİM AHİ EVRAN",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "16:08:04",
+        "trackingNo": "6735000316",
+        "receiptNo": "2026-10-19-16.05.23.492810",
+        "referenceCode": "",
+        "senderName": "ALİ TİFTİKÇİOĞLU",
+        "senderIban": "TR8200062000481000685677",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "YALNIZ BeşBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|16:08:04|5000|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792415388298,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3AFC5296030562CCBFFE",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
