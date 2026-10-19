@@ -7513,6 +7513,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792390200160_xkcnu",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "NALÇACI/KONYA ŞUBESİ",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "09:03:07",
+        "trackingNo": "F44377",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MURAT KAVALBACAK",
+        "senderIban": "TR380001000912545024045002",
+        "receiverName": "KHAN MOHAMMAD TURKMAN",
+        "receiverIban": "TR660001000261913484945001",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|09:03:07|9000|TR660001000261913484945001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792390200160,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2ACF9AD2036F52E7FF3A",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
