@@ -13395,6 +13395,74 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792431736323_hwdt0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1989/ÇAYYOLU/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "20:39:42",
+        "trackingNo": "7476973120",
+        "receiptNo": "F15516",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR560001001989939371565001",
+        "receiverName": "RECEP SARIĞÜNEY",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "5.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|20:39:42|5000|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792431736323,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3AD817089067E33009D0",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792431760782_ef85u",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4100",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "20:41",
+        "trackingNo": "4911189396",
+        "receiptNo": "202610208138544",
+        "referenceCode": "03663-03663-1018620243",
+        "senderName": "Tolga Can Acar",
+        "senderIban": "TR9200157000000000129888058",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4911189396"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792431760782,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A8196A37DB8701B4222",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
