@@ -8873,6 +8873,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792402130951_b8ddl",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KONYA TOPTANCILAR ŞUBESİ",
+        "amount": "3990.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "12:27:32",
+        "trackingNo": "1724821029",
+        "receiptNo": "00424-1149826",
+        "referenceCode": "202610189495433",
+        "senderName": "İSMAİL BÜYÜKDAĞ",
+        "senderIban": "TR9700111000000000118999526",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR3500015001580073622279815",
+        "description": "Bireysel Odeeme",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|12:27:32|3990|TR3500015001580073622279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792402130951,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AAA75017B66F48C0FA6",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
