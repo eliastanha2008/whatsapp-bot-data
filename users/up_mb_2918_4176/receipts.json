@@ -8261,6 +8261,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792397578748_0qrm7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye Cumhuriyeti Ziraat Bankası A.Ş.",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "11:00:29",
+        "trackingNo": "1196e42-9c26-4884-830e-4001232e2315",
+        "receiptNo": "963234176",
+        "referenceCode": "AHRQQB-8-20261019223",
+        "senderName": "HÜSEYİN CANDAN",
+        "senderIban": "TR23000100019393422205003",
+        "receiverName": "HÜSEYİN CANDAN",
+        "receiverIban": "",
+        "description": "Gönderen: HÜSEYİN CANDAN, Alıcı: Rahmetullah Hakkın, IBAN'nın Para Transferi (FAST)",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|11:00:29|5000"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792397578748,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A65A1214C2F24335680",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
