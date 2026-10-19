@@ -9893,6 +9893,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792410820355_qia5x",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "8000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "14:51:51",
+        "trackingNo": "43547193/222358",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YUSUF SEFA UNAÇ",
+        "senderIban": "TR910004600128888000432385",
+        "receiverName": "Zinat Nazari",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261019|14:51:51|8000|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792410820355,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A50170AF9418E9955898EF52F5D1886E",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
