@@ -13089,6 +13089,40 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792428836139_zupg1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "MESİR/MANİSA ŞUBESİ",
+        "amount": "4100",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "19:53:05",
+        "trackingNo": "7476701753",
+        "receiptNo": "F83264",
+        "referenceCode": "",
+        "senderName": "YUSUF KAYA",
+        "senderIban": "TR350001001256757127505001",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|19:53:05|4100|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792428836139,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A58C995070E0F76F3E6794183F2B7EB3",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
