@@ -13803,6 +13803,74 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792436179465_3du0l",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ANKARA OSB",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "21:54:39",
+        "trackingNo": "3142000492",
+        "receiptNo": "2026-10-19-21.54.32.762504",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR62000620006820006584920",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|21:54:39|4300|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792436179465,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A5332D51D5E67C02BF8",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792436336301_x7b3r",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "21:57:10",
+        "trackingNo": "AY6FG-B-20261019246",
+        "receiptNo": "CKD2026001908523",
+        "referenceCode": "e06e9f12-ee56-4580-8aa1-782cafe431fe",
+        "senderName": "AHMET ALPTEKIN",
+        "senderIban": "TR660001000261913484945001",
+        "receiverName": "Khan Mohammad Turkman",
+        "receiverIban": "",
+        "description": "Gönderen: AHMET ALPTEKIN, Alıcı: Khan Mohammad Turkman, IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|21:57:10|4000"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792436336301,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4ACCF03D4FA27FE83B7B",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
