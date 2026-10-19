@@ -12579,6 +12579,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792426402415_stoib",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2728/MİSKET MAHALLESİ/ANKARA",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "19/10/2026",
+        "time": "19:11:26",
+        "trackingNo": "7476238962",
+        "receiptNo": "",
+        "referenceCode": "F09659",
+        "senderName": "KAZIM KATIKCI",
+        "senderIban": "TR880001002728478457945026",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "HESAPTAN FAST",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|19:11:26|5000|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792426402415,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3AA3F832B3882F563DC6",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
