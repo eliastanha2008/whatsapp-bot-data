@@ -12477,6 +12477,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792425705477_ufq4i",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2349/EMİRLER-ETİMESGUT/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "19/10/2026",
+        "time": "19:01:15",
+        "trackingNo": "7476325646",
+        "receiptNo": "",
+        "referenceCode": "F32164",
+        "senderName": "",
+        "senderIban": "TR900001002349609506265001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "FATİH FİLİZ",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|19:01:15|4000|TR440001500158007391459193"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792425705477,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A3F9FCF391266D701B5",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
