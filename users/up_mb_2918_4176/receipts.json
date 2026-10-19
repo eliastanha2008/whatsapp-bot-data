@@ -9077,6 +9077,142 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792404035672_z5e91",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "12:57:13",
+        "trackingNo": "1670992133",
+        "receiptNo": "",
+        "referenceCode": "M-2026-10-19-12.57.13.670638",
+        "senderName": "AHMET BURAK ÖZTÜRK",
+        "senderIban": "TR79000120013590001104472",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "BİREYSEL ÖDEME",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|12:57:13|4000|TR350001500158007362279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792404035672,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AA1FC32297E29333B54",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792404037968_hogq4",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "AKSARAY",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "12:58:25",
+        "trackingNo": "6055000185",
+        "receiptNo": "2026-10-19-12.58.19.945233",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR900006200059100006882079",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|12:58:25|5500|TR350001500158007362279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792404037968,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4ACF0DD13B831F015D4C",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792404039988_tx7o3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1577/LALEGÜL/ANKARA ŞUBESİ",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "12:59:27",
+        "trackingNo": "7473379694",
+        "receiptNo": "",
+        "referenceCode": "F15418",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "TR720001001577436152095004",
+        "receiverName": "BAYRAM DURUKAN",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "3.000,00 TRY tutarında Fast işlemi",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|12:59:27|3000|TR350001500158007362279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792404039988,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A9F55BB6FFF0A0D1955",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792404150299_tdsi8",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "12:58",
+        "trackingNo": "4909749001",
+        "receiptNo": "202610202725009",
+        "referenceCode": "03663-03663-1017410425",
+        "senderName": "Mustafa Küçükakkaş",
+        "senderIban": "TR870015700000000204787862",
+        "receiverName": "Khan Mohammad Turkman",
+        "receiverIban": "TR660001600261913484945001",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4909749001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792404150299,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AC2709F1B561E06A844",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
