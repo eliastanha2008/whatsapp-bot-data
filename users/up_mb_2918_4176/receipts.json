@@ -11151,6 +11151,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792418313615_e33gq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "TÜRKÖZÜ/ANKARA ŞUBESİ",
+        "amount": "4300",
+        "currency": "TRY",
+        "date": "19/10/2026",
+        "time": "16:56:31",
+        "trackingNo": "7475493021",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR730001001521686552275008",
+        "receiverName": "MEHMET ŞAHİNER",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "4.300,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|16:56:31|4300|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792418313615,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5D14676134F8132B4CC5D2E2ED0A6E9",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
