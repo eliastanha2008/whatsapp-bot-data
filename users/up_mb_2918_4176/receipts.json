@@ -7343,6 +7343,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792384708056_kakm6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SINCAN/ANKARA",
+        "amount": "4.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "07:37:30",
+        "trackingNo": "43330000461",
+        "receiptNo": "2026-10-19-07.37.37.263604",
+        "referenceCode": "",
+        "senderName": "EMEK",
+        "senderIban": "TR970006200077800006883637",
+        "receiverName": "HASAN HUSEYIN UZEL",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "VALNZI DortBinTL..",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|07:37:30|4|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792384708056,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A29D78E05E3E6B3681A",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
