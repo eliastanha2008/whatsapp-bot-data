@@ -11729,6 +11729,74 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792422134113_55vss",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KONYA ORG. SAN.",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "17:59:11",
+        "trackingNo": "2026-10-19-17.59.09.402179",
+        "receiptNo": "2884000370",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR450006200146300006680261",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|17:59:11|4500|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792422134113,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4ABE7BF92873C74D2F38",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792422233832_0t96k",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "18:03",
+        "trackingNo": "4910746874",
+        "receiptNo": "202610206417154",
+        "referenceCode": "0363-0363-1018250406",
+        "senderName": "HAYATI GÖKBAKAR",
+        "senderIban": "TR59001570000000117111327",
+        "receiverName": "ZİNNAT NAZARİ",
+        "receiverIban": "TR800001500158607392630554",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4910746874"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792422233832,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AE0175021F113455B88",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
