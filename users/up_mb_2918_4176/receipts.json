@@ -11967,6 +11967,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792423258697_1x9ey",
+      "data": {
+        "isReceipt": true,
+        "bank": "TEB",
+        "bankBranch": "Kağıthane-476",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "18:19",
+        "trackingNo": "768136606",
+        "receiptNo": "00004404",
+        "referenceCode": "",
+        "senderName": "ÖZKAN KÜÇÜKATEŞ",
+        "senderIban": "TR6300030000000156364242",
+        "receiverName": "JAWID USMANE",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "A",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792423258697,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AA0B71E1D3CA788EA4B",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
