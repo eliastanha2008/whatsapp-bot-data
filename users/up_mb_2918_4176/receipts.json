@@ -10029,6 +10029,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792411299536_mvrqt",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "AKSARAY ŞUBESİ",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "14:56:42",
+        "trackingNo": "1725110190932519",
+        "receiptNo": "202610190932519",
+        "referenceCode": "00872-1894249",
+        "senderName": "OKTAY KOCAYORUK",
+        "senderIban": "TR0500111000000000072729951",
+        "receiverName": "Javid Usmeni",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Konut Kirasi Odemesi",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|14:56:42|6000|TR440001500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792411299536,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A53E15B5CF95308EDEB",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
