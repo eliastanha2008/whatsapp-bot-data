@@ -10301,6 +10301,108 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792413387399_fwcl5",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "3600.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "15:33",
+        "trackingNo": "4910252631",
+        "receiptNo": "202610204586926",
+        "referenceCode": "0363-03663-1017839594",
+        "senderName": "SALIH BIR",
+        "senderIban": "TR880015700000000202501748",
+        "receiverName": "ALICI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "ACIKLAMA-Bireysel Odeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4910252631"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792413387399,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AC30D1FF7A840EB345F",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792413721051_leo52",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "15:38:19",
+        "trackingNo": "50918705 / 314534",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "AYŞE DURAN",
+        "senderIban": "TR850004600033888000468671",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261019|15:38:19|4500|TR440001500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792413721051,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A7A06A64BBFB1CBEEAB",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792413723442_voiek",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "TAŞPAZAR MAHALLESİ/AKSARAY ŞUBESİ",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "15:36:10",
+        "trackingNo": "7474696973",
+        "receiptNo": "F42488",
+        "referenceCode": "A01",
+        "senderName": "MEHMET ALİ SOLAK",
+        "senderIban": "TR290001001995894124935002",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "4.300,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|15:36:10|4300|TR440001500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792413723442,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A06469F141B44C46F8D",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
