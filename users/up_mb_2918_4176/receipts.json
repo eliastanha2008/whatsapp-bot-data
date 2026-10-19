@@ -13123,6 +13123,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792429269547_5pkqm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KAHRAMANMARAŞ SANAYİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "19:57:18",
+        "trackingNo": "5813000428",
+        "receiptNo": "2026-10-19-19.57.08.765081",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR110006200119900006653384",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": "YALNIZ BeşBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|19:57:18|5000|TR4400015001580073914591"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792429269547,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A197CA4256506F4EABB",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
