@@ -11287,6 +11287,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792418790566_u2yrs",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "17:02:34",
+        "trackingNo": "APVCV-B-202610197",
+        "receiptNo": "BDM2026002482034",
+        "referenceCode": "",
+        "senderName": "HASAN BAYSAL",
+        "senderIban": "",
+        "receiverName": "Ramatullah hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Gönderen: HASAN BAYSAL , Alıcı: Ramatullah hakimi , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|17:02:34|4700|TR230001009010309422205003"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792418790566,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A1FE533AA6C671895D9",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
