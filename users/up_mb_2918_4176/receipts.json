@@ -7411,6 +7411,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792389200599_3k4s1",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "08:50:44",
+        "trackingNo": "3017399902",
+        "receiptNo": "2026014595899067",
+        "referenceCode": "",
+        "senderName": "SAİT ÇİL",
+        "senderIban": "",
+        "receiverName": "Khan Mohammad Türkman",
+        "receiverIban": "TR660001000261913484945001",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|08:50:44|5000|TR660001000261913484945001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792389200599,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A74CA1FA4B32C921C39",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
