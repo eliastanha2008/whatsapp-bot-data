@@ -9315,6 +9315,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792405267249_j1q2z",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0919/YILDIZEVLER/ANKARA ŞUBESİ",
+        "amount": "4250.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "13:19:05",
+        "trackingNo": "7473493175",
+        "receiptNo": "",
+        "referenceCode": "F12002",
+        "senderName": "",
+        "senderIban": "TR940001000919622787545001",
+        "receiverName": "ERDİ AVŞAR",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "4.250,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|13:19:05|4250|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792405267249,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5EEADC6B8EDADEF92E07AD3226FA5C5",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
