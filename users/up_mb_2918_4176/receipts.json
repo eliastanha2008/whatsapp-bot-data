@@ -10165,6 +10165,74 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792412588026_7zjdc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1527/BADEMLİK/ANKARA ŞUBESİ",
+        "amount": "4200.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "15:22:22",
+        "trackingNo": "F16947",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RESUL GÖKBAYIR",
+        "senderIban": "TR730001001527814537945008",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|15:22:22|4200|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792412588026,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4ABBE4D1A37B76A0DADD",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792412955825_ty6e0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1996/ŞENTEPE/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "15:28:44",
+        "trackingNo": "F25807",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YETER ASLAN",
+        "senderIban": "TR210001009010237356205001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Alacaklı Şube : 2783-HÜDAVENT HATUN/NIĞDE ŞUBESİ Alacaklı Hesap : 103094222 5003 Alacaklı IBAN : TR23 0001 0090 1030 9422 2050 03 Alacaklı Adı Soyadı : RAHMATULLAH HAKIMI Alacaklı Vergi No : Komisyon : 4,19 TRY Havale Tutarı : 4.000,00 TRY",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|15:28:44|4000|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792412955825,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A83A3F3973EB77A89F1",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
