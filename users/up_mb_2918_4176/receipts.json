@@ -7241,6 +7241,74 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792377821471_05psf",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "444 - Bireysel Bankacilik Subesi",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "00:02",
+        "trackingNo": "60602533",
+        "receiptNo": "4648772799",
+        "referenceCode": "",
+        "senderName": "MUHAMMET TOSUN",
+        "senderIban": "TR19001430000000029612080",
+        "receiverName": "RAHIMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792377821471,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A972DAC4B5552AF796E",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792377917441_cuc98",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "23:37:38",
+        "trackingNo": "517801274608",
+        "receiptNo": "SYJ202621846023",
+        "referenceCode": "925-791792 / 2549236547733",
+        "senderName": "MERVE ŞİMŞEK",
+        "senderIban": "TR65000670100000318782347",
+        "receiverName": "rahmatullah hakımı",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261018|23:37:38|4400|TR350001500158007362279"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792377917441,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2ABD717A3F9B315AB2E0",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
