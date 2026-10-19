@@ -11083,6 +11083,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792417737620_0t1sv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0058/BURDUR ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "16:46:30",
+        "trackingNo": "7475212941",
+        "receiptNo": "F61424",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR410001000058768474825001",
+        "receiverName": "MUHAMMED SALİH ÜNAL",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "ssssss",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|16:46:30|4000|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792417737620,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5120790F4D2399E7448FAF6BC01C0DB",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
