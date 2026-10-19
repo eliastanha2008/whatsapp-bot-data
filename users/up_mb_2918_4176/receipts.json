@@ -13225,6 +13225,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792430150550_edlj9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "4000/ZİRAAT SÜPER ŞUBE",
+        "amount": "11000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "20:10:11",
+        "trackingNo": "7476767038",
+        "receiptNo": "",
+        "referenceCode": "FACC84",
+        "senderName": "JAWID U",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "ALİ RIZA ATAR",
+        "receiverIban": "TR020001004000720509205012",
+        "description": "11.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,76 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|20:10:11|11000|TR020001004000720509205012"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792430150550,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A5853871802AE6E56E0",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
