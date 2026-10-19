@@ -8499,6 +8499,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792399490390_vkk1n",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KARADENİZ EREĞLİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "11:43:39",
+        "trackingNo": "6304000149",
+        "receiptNo": "2026-10-19-11.43.36.155458",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR410006200045800006898564",
+        "receiverName": "ZİNNAT NAZARİ",
+        "receiverIban": "TR80000150015800739203005554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|11:43:39|4500|TR80000150015800739203005554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792399490390,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A56CF4B33A11D144E4B55D45FD81B636",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
