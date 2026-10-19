@@ -9689,6 +9689,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792407772357_zunoa",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "13:58:08",
+        "trackingNo": "3855758515",
+        "receiptNo": "452058002793",
+        "referenceCode": "19.10.2026/447/8888/8888",
+        "senderName": "HAMDI GENCER",
+        "senderIban": "TR170006400000145201009188",
+        "receiverName": "Khan Mohammad Turkman",
+        "receiverIban": "TR66000261913484945001",
+        "description": "HAMDI GENCER tarafindan aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|13:58:08|10000|TR66000261913484945001"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792407772357,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4ACCAE36C5765FA2FD8F",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
