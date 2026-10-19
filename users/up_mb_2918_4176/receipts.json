@@ -13463,6 +13463,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792431974989_9htkx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "DARICA",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "20:44:34",
+        "trackingNo": "8342000494",
+        "receiptNo": "2026-10-19-20.44.34.457399",
+        "referenceCode": "",
+        "senderName": "VOLKAN EŞMEKAYA",
+        "senderIban": "TR580006200068000006884247",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|20:44:34|5000|TR440001500158007391459193"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792431974989,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AC7CC6F447CE9321DBC",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
