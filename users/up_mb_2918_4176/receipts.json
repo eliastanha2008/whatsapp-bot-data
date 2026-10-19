@@ -7615,6 +7615,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792391518221_idjtc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ÇUKURAMBAR",
+        "amount": "500",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "09:15:29",
+        "trackingNo": "9459000070",
+        "receiptNo": "2026-10-19-09.15.25.768638",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR060006200118300006625812",
+        "receiverName": "KHAN MOHAMMAD TURKMAN",
+        "receiverIban": "TR660001000261913484945001",
+        "description": "YALNIZ BeşYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|09:15:29|500|TR660001000261913484945001"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792391518221,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AFF44C87C1C2D9B47D7",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
