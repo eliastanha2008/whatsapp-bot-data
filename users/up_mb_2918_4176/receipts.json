@@ -12953,6 +12953,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792428179378_wqpsd",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2728/MİSKET MAHALLESİ/ANKARA ŞUBESİ",
+        "amount": "4800",
+        "currency": "TRY",
+        "date": "19/10/2026",
+        "time": "19:41:34",
+        "trackingNo": "F09800",
+        "receiptNo": "7476504349",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR880001002728478457945026",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Hesabınızdan 4.800,37 TL (Yalnız DÖRTBİNEKİYÜZSEKSENBEŞLİRA) Çekilmiştir",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|19:41:34|4800|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792428179378,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3AA200A4678F77061E48",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
