@@ -13361,6 +13361,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792431668626_mbkzc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "AYDIN DOVIZ ARASIM",
+        "amount": "6000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "12:03:54",
+        "trackingNo": "151276619552",
+        "receiptNo": "2026-10-19-20-12-03-941808",
+        "referenceCode": "2833000476",
+        "senderName": "AYDIN DOVIZ ARASIM",
+        "senderIban": "TR415000060651200006419952",
+        "receiverName": "JAMIR UZMANI",
+        "receiverIban": "TR440001500150037851455153",
+        "description": "HABER",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|12:03:54|6000|TR440001500150037851455153"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792431668626,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AFC82C7BDC501049480",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
