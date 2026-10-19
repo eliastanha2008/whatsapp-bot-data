@@ -13667,6 +13667,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792434676443_knvqh",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ATATURK BULV AKSARAY",
+        "amount": "2000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "21:28:58",
+        "trackingNo": "5800404",
+        "receiptNo": "2026-10-19-21.28.58.3895293",
+        "referenceCode": "18102865590",
+        "senderName": "SESLI ENGINDENIZ",
+        "senderIban": "TR360006200151200006619952",
+        "receiverName": "PAZARCI MAH. 1691 SOK. 5 22",
+        "receiverIban": "TR3300061500158007391459193",
+        "description": "191818181",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|21:28:58|2000|TR3300061500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792434676443,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A6BFB2CA923D41639C2",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
