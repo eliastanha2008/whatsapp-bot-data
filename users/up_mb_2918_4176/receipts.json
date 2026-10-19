@@ -14007,6 +14007,74 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792436792025_pkeu9",
+      "data": {
+        "isReceipt": true,
+        "bank": "TEB",
+        "bankBranch": "CEPTE TEB",
+        "amount": "3850",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "22:05",
+        "trackingNo": "00715325",
+        "receiptNo": "30845534",
+        "referenceCode": "768247300",
+        "senderName": "MAHMUT CEVIZLI",
+        "senderIban": "TR2500030000000118649968",
+        "receiverName": "rahmatullah hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "y",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792436792025,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A76F766EE0432445797",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792437012835_w9srl",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KONYA TOPTANCILAR ŞUBESİ",
+        "amount": "3990.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "22:09:25",
+        "trackingNo": "172910194668116",
+        "receiptNo": "00424-1149519",
+        "referenceCode": "202610194668116",
+        "senderName": "İSMAİL BÜYÜKDAĞ",
+        "senderIban": "TR9700111000000000118999526",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Bireysel Odenme",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|22:09:25|3990|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792437012835,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A38C09BA8783903A833",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
