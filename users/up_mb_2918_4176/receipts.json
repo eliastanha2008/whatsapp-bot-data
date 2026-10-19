@@ -12851,6 +12851,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792427547728_i7mxn",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL ÇEP",
+        "amount": "3958.37",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "19:25:23",
+        "trackingNo": "TR800001506158807392030554",
+        "receiptNo": "12442851",
+        "referenceCode": "TR930000460013988800404930",
+        "senderName": "GAMZE DOĞRUYOL",
+        "senderIban": "TR930000460013988800404930",
+        "receiverName": "Zinat Nazan",
+        "receiverIban": "TR800001506158807392030554",
+        "description": "VALNJ UCBIN DOKUKN/CELISEKZTL OTUZUYER KR",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261019|19:25:23|3958.37|TR800001506158807392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792427547728,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A68FA54B7A1B00C1A1F",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
