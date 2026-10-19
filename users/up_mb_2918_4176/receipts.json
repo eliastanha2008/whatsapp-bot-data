@@ -9451,6 +9451,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792407506442_8mtfu",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "NALÇACI",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "13:55:58",
+        "trackingNo": "4729000220",
+        "receiptNo": "2026-10-19-13.55.56.343874",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR03000620004190006999838",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ DörtBinBeşYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|13:55:58|4500|TR440001500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792407506442,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A6F09EC2F8DAA937CAF",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
