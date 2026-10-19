@@ -7309,6 +7309,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792382786330_fsyeh",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SINCAN",
+        "amount": "4.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "00:24:49",
+        "trackingNo": "3999000020",
+        "receiptNo": "2026-10-19-00-00-24.46.463243",
+        "referenceCode": "",
+        "senderName": "ZAFER KIBAROGLU",
+        "senderIban": "TR8000010006200046500006846416",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "MOBIL",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|00:24:49|4|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792382786330,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2ACEE54C901CA41DA898",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
