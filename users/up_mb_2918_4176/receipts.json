@@ -10641,6 +10641,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792415520218_m7ujb",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "2000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "16:11:23",
+        "trackingNo": "TR740004600015888000208451",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "İSA KÜYÜK",
+        "senderIban": "TR740004600015888000208451",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261019|16:11:23|2000|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792415520218,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A9BB2311374D275051B",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792415631587_vydav",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "16:13:20",
+        "trackingNo": "27705181/382200",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "CİHAT ÖZBEK",
+        "senderIban": "TR980004600151888000132834",
+        "receiverName": "Zinat Nazari",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261019|16:13:20|4000|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792415631587,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A51A60441D05FD8404ACCB3D62121E16",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
