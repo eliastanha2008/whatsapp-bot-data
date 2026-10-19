@@ -9383,6 +9383,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792406131774_brhao",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "13:29:54",
+        "trackingNo": "3855636027",
+        "receiptNo": "450041007889",
+        "referenceCode": "19.10.2026/447/8888/8888",
+        "senderName": "SİBEL ÖZTÜRK",
+        "senderIban": "TR740006400000145003436428",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44500158007391459193",
+        "description": "SİBEL ÖZTÜRK tarafından aktarılan",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|13:29:54|4500|TR44500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792406131774,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AE3FF54E644DA33ED65",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
