@@ -8057,6 +8057,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792395945601_cadl8",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0713/İSKİTLER/ANKARA ŞUBESİ",
+        "amount": "6100.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "10:44:22",
+        "trackingNo": "F09014",
+        "receiptNo": "472371822",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR620001000713644482685002",
+        "receiverName": "FATİH ÖZDEM",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "zinat nazar",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|10:44:22|6100|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792395945603,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AEFB70B37CB98F4DD25",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
