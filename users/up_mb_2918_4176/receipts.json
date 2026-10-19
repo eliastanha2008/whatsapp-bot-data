@@ -10131,6 +10131,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792412516063_866ie",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "AYKUT/ANKARA",
+        "amount": "7400.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "15:19:40",
+        "trackingNo": "55420000266",
+        "receiptNo": "2026-10-19-15.19.38.094641",
+        "referenceCode": "",
+        "senderName": "SINCAN CAGRI",
+        "senderIban": "TR87000620010910006876820",
+        "receiverName": "SINAZT NAZARI",
+        "receiverIban": "TR800001500184067392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|15:19:40|7400|TR800001500184067392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792412516063,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A4475F0F32D49382D97",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
