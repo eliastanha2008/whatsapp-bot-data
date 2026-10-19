@@ -8975,6 +8975,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792403071423_qq2p6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "3500",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "12:43",
+        "trackingNo": "4909702148",
+        "receiptNo": "202610202544777",
+        "referenceCode": "03663-03663-1017369304",
+        "senderName": "Ramazan Kaplan",
+        "senderIban": "TR2700157000000000150239731",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500058007362279815",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4909702148"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792403071423,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A06410F7B0D33261B50",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
