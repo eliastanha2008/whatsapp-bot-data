@@ -9791,6 +9791,108 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792408517959_k2eve",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "14:14:32",
+        "trackingNo": "517812456686",
+        "receiptNo": "SYJ202622645938",
+        "referenceCode": "925-957209 / 2349346975194",
+        "senderName": "BARBAROS ZEYDANLI",
+        "senderIban": "TR38000670100000030293678",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR80000150015800739203030554",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|14:14:32|4500|TR80000150015800739203030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792408517959,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5A356103655801FEEBA5D5D12BDA6D2",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792408530999_vn3gh",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2528/BUGDAY PAZARI/KONYA ŞUBESİ",
+        "amount": "4540.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "14:14:13",
+        "trackingNo": "7474027950",
+        "receiptNo": "F25913",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR66000100252879033575003",
+        "receiverName": "ABDULLAH KÜÇÜK",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "JAWID USMANI",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|14:14:13|4540|TR440001500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792408530999,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AC9FBBDB77B2EEAA984",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792408694259_etrst",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "4000/ZİRAAT SÜPER ŞUBE",
+        "amount": "4004.18",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "14:16:07",
+        "trackingNo": "7474083073",
+        "receiptNo": "F53281_4027",
+        "referenceCode": "",
+        "senderName": "ÜMMÜHAN ŞAHİN",
+        "senderIban": "TR450001004027935287275001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "HESAPFAST",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|14:16:07|4004.18|TR440001500158007391459193"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792408694259,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A068C3ECE84101E01C1",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
