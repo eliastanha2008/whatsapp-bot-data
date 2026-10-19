@@ -13633,6 +13633,40 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792434474900_9560f",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ULUS / ANKARA",
+        "amount": "4190.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "21:27:06",
+        "trackingNo": "250000540",
+        "receiptNo": "2026-10-19-21.27.02.579407",
+        "referenceCode": "",
+        "senderName": "ZİNNAT NAZARI",
+        "senderIban": "TR690006200071100006852078",
+        "receiverName": "MURATHAN ERGİN",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|21:27:06|4190|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792434474900,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A53EA23A4587FDCBB9BEED83F1F5791D",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
