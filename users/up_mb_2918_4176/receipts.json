@@ -10505,6 +10505,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792415253667_g299n",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "HASANOĞLAN/ANKARA ŞUBESİ",
+        "amount": "4.000,00",
+        "currency": "TRY",
+        "date": "19/10/2026",
+        "time": "16:04:26",
+        "trackingNo": "F10998",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "İSMÂİL SALTÜRK",
+        "senderIban": "TR55000100230808222975001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "HÜDAVENT HATUN/NİĞDE ŞUBESİ",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|16:04:26|4000|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792415253667,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A13C263D12339CDCE7A",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
