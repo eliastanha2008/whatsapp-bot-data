@@ -13735,6 +13735,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792435926405_nkgn5",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "21:48:46",
+        "trackingNo": "2026014635770964",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "AVNİ DURUM",
+        "senderIban": "TR4800015001585185",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|21:48:46|5000|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792435926405,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A89D06C263BAEDDC2A0",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
