@@ -12715,6 +12715,108 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792426865023_x3ko0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4700.00",
+        "currency": "TRY",
+        "date": "19/10/2026",
+        "time": "19:11:57",
+        "trackingNo": "3856965894",
+        "receiptNo": "423292004344",
+        "referenceCode": "19.10.2026/447/8888/8888",
+        "senderName": "YUSUF KARAKÜTÜK",
+        "senderIban": "TR420006400000142321046631",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "YUSUF KARAKÜTÜK tarafından aktarılan",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|19:11:57|4700|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792426865023,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A51AA85D54193B4E5DA3E46837405E0F",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792426868183_ht0l3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ANKARA SUBESİ",
+        "amount": "4250.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "19:04:37",
+        "trackingNo": "7473493175",
+        "receiptNo": "",
+        "referenceCode": "TR840001000919622887545001",
+        "senderName": "ERDI AVŞAR",
+        "senderIban": "TR840001000919622887545001",
+        "receiverName": "ZİNAAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "HESAP FAST",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|19:04:37|4250|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792426868183,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A541AB3B6BAAAE655FE8E8946CD81D47",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792427003824_gdcq3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Odea Bank",
+        "bankBranch": "9300-İNTERNET",
+        "amount": "3990.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "19:22",
+        "trackingNo": "635196145429614592",
+        "receiptNo": "19102026-9300-40403",
+        "referenceCode": "",
+        "senderName": "CÜNEYT KARTAL",
+        "senderIban": "TR690014000000568449500001",
+        "receiverName": "ZİNNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792427003824,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5F92C997B039D73209C0E97FCDE59A9",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
