@@ -13259,6 +13259,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792430463178_tg6nk",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KEÇİÖREN ŞUBESİ",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "20:16:07",
+        "trackingNo": "202610194009702",
+        "receiptNo": "01310-1993686",
+        "referenceCode": "T99148",
+        "senderName": "ERAY TÜRKMEN",
+        "senderIban": "TR4400111000000000111655640",
+        "receiverName": "Zinat Nazan",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Bireysel Ödeme",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|20:16:07|5000|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792430463178,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A8142F81B640E2F909F",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
