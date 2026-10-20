@@ -16183,6 +16183,108 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792489133092_zenpr",
+      "data": {
+        "isReceipt": true,
+        "bank": "ING Bank",
+        "bankBranch": "BİREYSEL MERKEZ ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "12:35:32",
+        "trackingNo": "263528959926",
+        "receiptNo": "50083259",
+        "referenceCode": "TR440001500158007391459193",
+        "senderName": "BAHATTİN KARAMAN",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Giden FAST Sorgu No:263528959926 TR440001500158007391459193 Türkiye Vakıflar Bankası T.A.O. JAWID USMANI",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|12:35:32|5000|TR440001500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792489133092,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A5E6957CFA7F0C8C3C8",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792489154790_26q7n",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "12:38:41",
+        "trackingNo": "254948241863",
+        "receiptNo": "925-1648429",
+        "referenceCode": "SYJ202623924048",
+        "senderName": "BURAK ÇELİKSOY",
+        "senderIban": "TR20000670100000098648156",
+        "receiverName": "jawid usmani",
+        "receiverIban": "TR440001500158007391459",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRET - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|12:38:41|4000|TR440001500158007391459"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792489154790,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AAFF454A04E8A603F06",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792489325282_kiwcr",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4900",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "12:40:19",
+        "trackingNo": "254944251192",
+        "receiptNo": "3425892066",
+        "referenceCode": "SYJ2026239349976",
+        "senderName": "İDAL TAŞTAN",
+        "senderIban": "TR07000670100000024409149",
+        "receiverName": "ZİNNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|12:40:19|4900|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792489325282,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A239F1572E4BB4BE3F2",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
