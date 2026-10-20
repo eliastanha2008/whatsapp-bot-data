@@ -19651,6 +19651,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792515122261_rm5gt",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ERYAMAN",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "19:47:14",
+        "trackingNo": "1095000492",
+        "receiptNo": "2026-10-20-19.47.11.230180",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR210006200119800006653015",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR80000150015800739203005554",
+        "description": "YALNIZ DörtBinBegYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|19:47:14|4500|TR80000150015800739203005554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792515122261,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5EA9C14D468EA03FF71FDAD7CA51927",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
