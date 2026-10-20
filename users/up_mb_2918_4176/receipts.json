@@ -18529,6 +18529,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792506670426_cx0oc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "HÜSEYINGAZİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "17:30:21",
+        "trackingNo": "8273000332",
+        "receiptNo": "2026-10-20-17.30.16.337298",
+        "referenceCode": "",
+        "senderName": "BİLAL ÇAKICI",
+        "senderIban": "TR330006200154500006642916",
+        "receiverName": "ZİNAT NAZARI",
+        "receiverIban": "TR80000150015800739203005554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|17:30:21|4500|TR80000150015800739203005554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792506670426,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A577CF724BB551FB5FE65A0F44E243FC",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
