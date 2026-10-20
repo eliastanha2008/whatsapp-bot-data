@@ -16523,6 +16523,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792491709658_haog8",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "5000.00",
+        "currency": "TRY",
+        "date": "20/10/2026",
+        "time": "13:18:10",
+        "trackingNo": "358728392",
+        "receiptNo": "428769002968",
+        "referenceCode": "20.10.2026/447/8888/8888",
+        "senderName": "SERHAT ATAŞ",
+        "senderIban": "TR890006400000142870710447",
+        "receiverName": "zina",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "SERHAT ATAŞ tarafından aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|13:18:10|5000|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792491709658,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3AC45D23CB2B8277D00D",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
