@@ -20603,6 +20603,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792525756391_p4cjl",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Çeşitli Şube",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "22:48",
+        "trackingNo": "4914126941",
+        "receiptNo": "0363-03663-1022649385",
+        "referenceCode": "202610220453418",
+        "senderName": "Uğur Çetinkaya",
+        "senderIban": "TR510015700000000202312682",
+        "receiverName": "UĞUR ÇETİNKAYA",
+        "receiverIban": "TR880001500158007392030554",
+        "description": "Breysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4914126941"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792525756391,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A8535F16023C0940CDA",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
