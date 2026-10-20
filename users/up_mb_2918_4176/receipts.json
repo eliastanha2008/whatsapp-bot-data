@@ -18155,6 +18155,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792503809196_r2k9s",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "16:41:46",
+        "trackingNo": "CRF2026000649312",
+        "receiptNo": "AQFGO-B-20261020287",
+        "referenceCode": "",
+        "senderName": "YAKUP TUFAN",
+        "senderIban": "TR800001500158007392030554",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "",
+        "description": "Gönderen: YAKUP TUFAN , Alıcı: ZINAT NAZARI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|16:41:46|5000"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792503809196,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A7D760119FD3C9971C8",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
