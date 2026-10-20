@@ -18937,6 +18937,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792510195991_i1yph",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "18:28:23",
+        "trackingNo": "46302996/316446",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SEVAL ÇETİN",
+        "senderIban": "TR670004600005888000857716",
+        "receiverName": "Zinat Nazarı",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261020|18:28:23|5000|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792510195991,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3AFCCD3A2ADA0B97B2EB",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
