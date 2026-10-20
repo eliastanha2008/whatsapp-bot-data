@@ -20535,6 +20535,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792525234157_nggy7",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.S.",
+        "bankBranch": "MESUT DEMIRBASI",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "22:39:52",
+        "trackingNo": "1376281655",
+        "receiptNo": "00046-1642837",
+        "referenceCode": "2026/10007573523",
+        "senderName": "MOBIL BANKACILIK",
+        "senderIban": "TR87000100000000123544888",
+        "receiverName": "QNB FINANSAL KIRALAMA A.S.",
+        "receiverIban": "TR87000100000000123544888",
+        "description": "BSMV Tahsilat",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|22:39:52|4000|TR87000100000000123544888"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792525234157,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A45CC1414D939256B15",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
