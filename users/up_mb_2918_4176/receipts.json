@@ -19277,6 +19277,108 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792512135074_5bjje",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "18:56:07",
+        "trackingNo": "2026014680485586",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "LÜTFİ DERELİ",
+        "senderIban": "TR5600015001583896",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|18:56:07|4000|TR350001500158007362279815"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792512135074,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A91E6F48CEBC45673EC",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792512151004_whb4n",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4700.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "18:59",
+        "trackingNo": "1673778273",
+        "receiptNo": "M-2026-10-20-18.59.18.450196",
+        "referenceCode": "",
+        "senderName": "SERKAN ÜNAL",
+        "senderIban": "TR400001200172000001104824",
+        "receiverName": "NIZAMUDDIN YAGUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "GİDEN FAST - SERKAN ÜNAL TARAFINDAN GÖNDERİLEN",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792512151004,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A6D50FC674B7C952DB8",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792512161765_m56he",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "4970.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "19:01:00",
+        "trackingNo": "3022164013",
+        "receiptNo": "",
+        "referenceCode": "2026014680531163",
+        "senderName": "ZİNAT NAZARİ",
+        "senderIban": "",
+        "receiverName": "Hasan Hüseyin uysal",
+        "receiverIban": "TR280006200052800006445860",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|19:01:00|4970|TR280006200052800006445860"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792512161765,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A6E51C8AA0EE504C718",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
