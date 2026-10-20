@@ -14993,6 +14993,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792478594862_rtzm4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ÇUKURAMBAR",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "09:42:20",
+        "trackingNo": "75000087",
+        "receiptNo": "2026-10-20-09.42.17.979257",
+        "referenceCode": "",
+        "senderName": "YASİN GÜRPINAR",
+        "senderIban": "TR330006200118300006607866",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|09:42:20|4000|TR440001500158007391459193"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792478594863,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A8D9D704A4C562DDD2C",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
