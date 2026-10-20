@@ -14857,6 +14857,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792474797972_4pn0b",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "EMEK",
+        "amount": "4.000,00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "08:37:30",
+        "trackingNo": "4333000062",
+        "receiptNo": "2026-10-20-08.37.30.263614",
+        "referenceCode": "",
+        "senderName": "HASAN HÜSEYİN UYSAL",
+        "senderIban": "TR970006200077800006883637",
+        "receiverName": "ZİNNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|08:37:30|4000|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792474797972,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A41B375A28F88C28D4C",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
