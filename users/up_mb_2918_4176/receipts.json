@@ -18767,6 +18767,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792509223721_49fe4",
+      "data": {
+        "isReceipt": true,
+        "bank": "TOM Bank",
+        "bankBranch": "Merkez Şube",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "18:13",
+        "trackingNo": "7827251",
+        "receiptNo": "",
+        "referenceCode": "AMT95-B-202610201",
+        "senderName": "AYŞE DURSUN",
+        "senderIban": "",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Gönderen: AYŞE DURSUN , Alıcı: ZİNAT NAZARİ , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792509223721,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5F3906CFEDF10F823D03B798D7788A8",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
