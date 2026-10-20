@@ -18053,6 +18053,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792502574728_8f0u5",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank",
+        "bankBranch": "",
+        "amount": "3900.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "16:21:40",
+        "trackingNo": "635512974618927104",
+        "receiptNo": "",
+        "referenceCode": "20102026-9300-30121986",
+        "senderName": "GÜLTEKİN ÖZDEMİR",
+        "senderIban": "TR880013400002146319200004",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi için 9330-21463192-351 hesabınıza toplam 3.900,00 TL Borç kaydedilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|16:21:40|3900|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792502574728,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AB235BFE2C2F423AB55",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
