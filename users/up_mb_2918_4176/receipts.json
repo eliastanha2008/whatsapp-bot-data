@@ -14313,6 +14313,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792461634829_wgw6m",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "TUZLUÇAYIR/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "04:17:20",
+        "trackingNo": "F00566",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MURAT CAN YILMAZ",
+        "senderIban": "TR790001001330924463465001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|04:17:20|4000|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792461634829,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A06B6DC5F455601A974",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
