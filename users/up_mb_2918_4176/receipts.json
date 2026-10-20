@@ -17135,6 +17135,40 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792495034148_c4h34",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "14:09:26",
+        "trackingNo": "7480312355",
+        "receiptNo": "",
+        "referenceCode": "F09891_4027",
+        "senderName": "",
+        "senderIban": "TR450001000427935287275001",
+        "receiverName": "ÜMMÜHAN ŞAHİN",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Hesabınızdan 5.004,18 TL (Yalnız BEŞBİN DÖRTLİRAONSEKİZKURUŞ) Çekilmiştir",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|14:09:26|5000|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792495034148,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A8125EAF3CD681C9A30",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
