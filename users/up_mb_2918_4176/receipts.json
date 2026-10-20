@@ -19719,6 +19719,40 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792515540113_35v7j",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4990",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "19:57:06",
+        "trackingNo": "517835040422",
+        "receiptNo": "3427692531",
+        "referenceCode": "SYJ202624441853",
+        "senderName": "DAVUT TEMUR",
+        "senderIban": "TR55000670100000070172788",
+        "receiverName": "O3Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|19:57:06|4990|TR230001009010309422205"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792515540113,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AD76A949372201464B1",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
