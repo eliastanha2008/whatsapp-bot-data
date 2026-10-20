@@ -14551,6 +14551,210 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792468676980_7wg34",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "23:08",
+        "trackingNo": "4911478241",
+        "receiptNo": "202610209182409",
+        "referenceCode": "03663-03663-1018877958",
+        "senderName": "MUSTAFA İPEK",
+        "senderIban": "TR78001570000000001148136337",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4911478241"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792468676980,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A4F64DBAA884655C344",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792468680185_zoj86",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "23:16:10",
+        "trackingNo": "635254898372157440",
+        "receiptNo": "",
+        "referenceCode": "19102026-9300-48390371",
+        "senderName": "YUSUF ALTAY",
+        "senderIban": "TR630013400001697144600006",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|23:16:10|5000|TR350001500158007362279815"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792468680185,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A648132551409882DEC",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792468683368_ygr70",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "23:19:21",
+        "trackingNo": "AZBFF-B-20261019409",
+        "receiptNo": "BTK2026001295642",
+        "referenceCode": "663f6ab2-4903-479c-b4d1-d10f8aaa1eb2",
+        "senderName": "SEBAHAT ASLI DURSUN",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "",
+        "description": "Gönderen: SEBAHAT ASLI DURSUN, Alıcı: HAKIMI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|23:19:21|5000"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792468683368,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AA93FDFF4C55D4F4A5F",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792468704834_8prf0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye Finans",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "23:06:00",
+        "trackingNo": "20261019-99-XVGB6",
+        "receiptNo": "",
+        "referenceCode": "0680063870",
+        "senderName": "MEHMET EMİN KARATAŞ",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261019|23:06:00|4500|TR350001500158007362279815"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792468704834,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AEAC45CB5C591D334E6",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792468707750_wumax",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "18:40",
+        "trackingNo": "4910860748",
+        "receiptNo": "202610206867005",
+        "referenceCode": "03663-03663-1018344182",
+        "senderName": "Muharremet Barut",
+        "senderIban": "TR3600157000000000114508552",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4910860748"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792468707750,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A1ADE4024DF2D3BB688",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792468710461_4cemp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0416/ELEŞKİRT/AGRI ŞUBESİ",
+        "amount": "4550.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "23:40:30",
+        "trackingNo": "7477731452",
+        "receiptNo": "F31441",
+        "referenceCode": "A01",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "SÜLEYMAN ONUR BAŞLAR",
+        "receiverIban": "TR270001000416968055025002",
+        "description": "4.550,00 TRY tutarinda Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|23:40:30|4550|TR270001000416968055025002"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792468710461,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A27BA144BEC27A8F894",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
