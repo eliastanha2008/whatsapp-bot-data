@@ -19549,6 +19549,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792514086315_6s4dr",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "19:30",
+        "trackingNo": "4913666622",
+        "receiptNo": "202610218752614",
+        "referenceCode": "03663-03663-1022254566",
+        "senderName": "Ali Emrah Geçer",
+        "senderIban": "TR020015700000000131683693",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4913666622"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792514086315,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A3482D547E2FEB2895F",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
