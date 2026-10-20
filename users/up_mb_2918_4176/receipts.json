@@ -17747,6 +17747,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792498527800_ruglc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1395/BALGAT/ANKARA ŞUBESİ",
+        "amount": "4910.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "15:13:37",
+        "trackingNo": "7480945634",
+        "receiptNo": "F06884",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR510001001395783870005010",
+        "receiverName": "SONGÜL YURT",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "ZINAT NAZARI",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|15:13:37|4910|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792498527800,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3ABBFDB6092B39B3927D",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
