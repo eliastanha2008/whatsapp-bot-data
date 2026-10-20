@@ -15333,6 +15333,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792483293412_htuf0",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "11:00:31",
+        "trackingNo": "TR930004600401888000160679",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "HAFİZE KARALAR",
+        "senderIban": "TR930004600401888000160679",
+        "receiverName": "Rahmatullah Hakimi Ziraat Bank",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261020|11:00:31|5000|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792483293412,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AF980BF3C2F442763B9",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
