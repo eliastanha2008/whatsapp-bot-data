@@ -17339,6 +17339,108 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792496189585_rxo9l",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Cep Şube",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "14:35",
+        "trackingNo": "4912718988",
+        "receiptNo": "202610215233389",
+        "referenceCode": "03663-03663-1021477355",
+        "senderName": "Mehmet Küçüktönbül",
+        "senderIban": "TR2100157000000000130161518",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500058007362279815",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4912718988"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792496189585,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A0F7D0A44523B063B0C",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792496195682_0m3ce",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2533/ANKARA ŞEHİR HASTANESİ ŞUBESİ",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "20/10/2026",
+        "time": "14:35:54",
+        "trackingNo": "7480640172",
+        "receiptNo": "",
+        "referenceCode": "F08674",
+        "senderName": "CEVRIYE EKICI",
+        "senderIban": "TR550001002533858950565001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.000,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|14:35:54|4000|TR350001500158007362279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792496195682,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AEAF50037731CE672D3",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792496639692_8d4b6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Cep Şube",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "14:43",
+        "trackingNo": "4912744209",
+        "receiptNo": "202610215324489",
+        "referenceCode": "03663-03663-1021498944",
+        "senderName": "KÜBRA AKAY",
+        "senderIban": "TR5300157000000000132713400",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500058007362279815",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4912744209"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792496639692,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AE0EE0BE6CAA797D559",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
