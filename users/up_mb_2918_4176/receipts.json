@@ -16863,6 +16863,74 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792493567882_lvcnd",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4200.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "13:43:39",
+        "trackingNo": "AM8PU-B-202610207",
+        "receiptNo": "BDM2026002493551",
+        "referenceCode": "a0e8bfa8-6f7c-4e4b-9b11-091d8dcd4c8e",
+        "senderName": "AHMET ÜÇLER",
+        "senderIban": "TR23000100901030942205003",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "",
+        "description": "Gönderen: AHMET ÜÇLER , Alıcı: Rahmatullah Hakimi , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|13:43:39|4200"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792493567882,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AEAA07349A820A003B4",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792493860354_1aip1",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ÇUBUK",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "13:52:28",
+        "trackingNo": "6702000204",
+        "receiptNo": "2026-10-20-13.52.22.556009",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR360006200111400000649091",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422255003",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|13:52:28|4000|TR230001009010309422255003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792493860354,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A34F317939C2944939B",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
