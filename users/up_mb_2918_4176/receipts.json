@@ -19141,6 +19141,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792511747855_91dqo",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "MEŞRUTİYET CADDESİ",
+        "amount": "4970.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "18:35:39",
+        "trackingNo": "2137000427",
+        "receiptNo": "2026-10-20-18.35.38.151192",
+        "referenceCode": "",
+        "senderName": "HASAN HÜSEYİN UYSAL",
+        "senderIban": "TR280006200052800006645860",
+        "receiverName": "ZİNNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|18:35:39|4970|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792511747855,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A82869714FF229D0CF9",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
