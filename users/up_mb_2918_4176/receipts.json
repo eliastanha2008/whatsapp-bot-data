@@ -14415,6 +14415,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792465608911_gu75j",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "28/10/2026",
+        "time": "05:58:26",
+        "trackingNo": "1672351889",
+        "receiptNo": "",
+        "referenceCode": "M-2026-10-28-05.58.26.739838",
+        "senderName": "MURAT AK",
+        "senderIban": "TR350001200941300001035770",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "GİDEN FAST - MURAT AK TARAFINDAN GÖNDERİLEN",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261028|05:58:26|10000|TR350001500158007362279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792465608911,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AB7C8D77282882BF92A",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
