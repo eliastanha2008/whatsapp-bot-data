@@ -15231,6 +15231,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792482757126_e4o3n",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "10:51:15",
+        "trackingNo": "36793507",
+        "receiptNo": "405721",
+        "referenceCode": "",
+        "senderName": "EMRAH KARABIYIK",
+        "senderIban": "TR87000460603888000181339",
+        "receiverName": "Zinat Nazan",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261020|10:51:15|4500|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792482757126,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AE0FBA6DF0212505EF3",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
