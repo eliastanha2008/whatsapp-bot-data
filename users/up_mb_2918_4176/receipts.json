@@ -20739,6 +20739,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792527468905_eomo3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "BÜSAN",
+        "amount": "4600.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "23:15:13",
+        "trackingNo": "8427000555",
+        "receiptNo": "2026-10-20-23.15.10.157565",
+        "referenceCode": "",
+        "senderName": "YAKUP YÜREK",
+        "senderIban": "TR390006200079000006673064",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|23:15:13|4600|TR340001500158007312220752"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792527468905,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A7124810BA080849588",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
