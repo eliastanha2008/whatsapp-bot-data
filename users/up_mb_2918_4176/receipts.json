@@ -14347,6 +14347,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792462670986_e47cz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ULUS / ANKARA",
+        "amount": "3988.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "05:16:26",
+        "trackingNo": "4563000030",
+        "receiptNo": "2026-10-20-05.16.21.923505",
+        "referenceCode": "",
+        "senderName": "MURATHAN ERGİN",
+        "senderIban": "TR690006200071100006852078",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205503",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|05:16:26|3988|TR230001009010309422205503"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792462670986,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AB6DFD5E3F717E2DB59",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
