@@ -18495,6 +18495,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792506607548_acsg3",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "17:24:34",
+        "trackingNo": "517833200272",
+        "receiptNo": "SYJ202624272953",
+        "referenceCode": "925-786037 / 2549469228520",
+        "senderName": "OĞUZ SARIEL",
+        "senderIban": "TR46000670100000012883004",
+        "receiverName": "ATOSA Şahin",
+        "receiverIban": "TR490001009010129955305",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|17:24:34|4500|TR490001009010129955305"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792506607548,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A418197347C72E96B36",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
