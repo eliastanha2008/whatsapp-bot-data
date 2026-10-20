@@ -16115,6 +16115,40 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792488982991_d602o",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ŞENTEPE/YENİMAHALLE",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "12:35:31",
+        "trackingNo": "1845000187",
+        "receiptNo": "2026-10-20-12.35.28.210897",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR64000620012690006637045",
+        "receiverName": "RAHMATULLAH HAKİMİ",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|12:35:31|4000|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792488982991,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A2EE7B36268F7C21262",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
