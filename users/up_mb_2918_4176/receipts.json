@@ -16285,6 +16285,40 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792490485097_gidus",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "12:45:36",
+        "trackingNo": "AL093-B-20261020105",
+        "receiptNo": "BNV2026001462866",
+        "referenceCode": "e0ee454e-20f2-43b5-aa43-b7a1e947388f",
+        "senderName": "DİLEK KARAGOL",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "",
+        "description": "Gönderen: DİLEK KARAGOL , Alıcı: JAWID USMANI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|12:45:36|5000"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792490485097,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A45A1C1E3E5BBAB95AE",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
