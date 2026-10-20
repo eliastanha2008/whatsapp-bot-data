@@ -17645,6 +17645,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792497651735_astxr",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0039/ALANYA/ANTALYA ŞUBESİ",
+        "amount": "4950.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "14:59:48",
+        "trackingNo": "F12021",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ÖMER ÖZYÖN",
+        "senderIban": "TR170001000039458400125001",
+        "receiverName": "ATOSA SHAHIN",
+        "receiverIban": "TR490001009010129955305001",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|14:59:48|4950|TR490001009010129955305001"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792497651735,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AC2918608A63FFB79AB",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
