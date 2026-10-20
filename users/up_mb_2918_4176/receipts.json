@@ -20841,6 +20841,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792529590573_7vbwg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "3700.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "23:43",
+        "trackingNo": "4914211560",
+        "receiptNo": "03663-03663-1022728632",
+        "referenceCode": "202610220760905",
+        "senderName": "SALIH BIR",
+        "senderIban": "TR8800157000000002D2501748",
+        "receiverName": "ALICI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "ACIKLAMA-Bireysel Odeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4914211560"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792529590573,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A2CF692B2816FEE028D",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
