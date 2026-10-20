@@ -20807,6 +20807,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792528844079_3rxi8",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "2500.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "23:37:45",
+        "trackingNo": "3022714358",
+        "receiptNo": "",
+        "referenceCode": "2026014690613183",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "Özgür Kirat",
+        "receiverIban": "TR400004600663888000177924",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|23:37:45|2500|TR400004600663888000177924"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792528844079,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "3AD0644BF8D80F6B9C02",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
