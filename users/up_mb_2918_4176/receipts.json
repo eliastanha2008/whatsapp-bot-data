@@ -16149,6 +16149,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792489129194_3knxq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2721/SARAY/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "12:34:57",
+        "trackingNo": "7479708436",
+        "receiptNo": "",
+        "referenceCode": "F02965",
+        "senderName": "HASAN GÖBÜTOĞLU",
+        "senderIban": "TR380001002721861311245004",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "HESAPTAN FAST",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|12:34:57|5000|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792489129194,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3AE7EFB6B4DF49A511A2",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
