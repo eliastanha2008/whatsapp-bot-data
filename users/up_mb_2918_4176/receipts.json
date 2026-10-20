@@ -17033,6 +17033,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792494635960_k15il",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "İVEDİK ORG. SAN.",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "14:03:32",
+        "trackingNo": "9145000224",
+        "receiptNo": "2026-10-20-14.03.28.448325",
+        "referenceCode": "",
+        "senderName": "HAKAN GÜNEY",
+        "senderIban": "TR640006200053300006624526",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "YALNIZ BeşBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|14:03:32|5000|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792494635960,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A3509929274AF888BE8",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
