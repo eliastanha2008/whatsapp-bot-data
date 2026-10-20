@@ -20773,6 +20773,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792527897793_d6kod",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "3800",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "23:24",
+        "trackingNo": "4914185300",
+        "receiptNo": "202610220670670",
+        "referenceCode": "03663-03663-1022707047",
+        "senderName": "Medine Çorak",
+        "senderIban": "TR0900157000000000203557948",
+        "receiverName": "Zinat Nazari",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4914185300"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792527897793,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A815DAB61F200E241E5",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
