@@ -16557,6 +16557,40 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792491919296_h9zsd",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0118/BİLECİK ŞUBESİ",
+        "amount": "7915.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "13:11:42",
+        "trackingNo": "7479928197",
+        "receiptNo": "F12874",
+        "referenceCode": "",
+        "senderName": "FATİH ÖZDEM",
+        "senderIban": "TR820001000118644482685001",
+        "receiverName": "zınat naz",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "7.915,00 TRY tutarında Fast İşleminin yapılmasını, Bu işlem için tarafımda bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|13:11:42|7915|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792491919296,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A164E269E0629002703",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
