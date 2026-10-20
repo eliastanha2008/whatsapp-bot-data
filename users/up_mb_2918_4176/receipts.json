@@ -19005,6 +19005,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792510593198_0j60p",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "BÜSAN ŞUBESİ",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "18:34:28",
+        "trackingNo": "1272068586",
+        "receiptNo": "01531-1262245",
+        "referenceCode": "202610204263413",
+        "senderName": "MEHMET KIYAK",
+        "senderIban": "TR180011100000000021044237",
+        "receiverName": "Rahmatullah Hakimi Türkiye Cumhuriyeti",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Breyseil Ödeme",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|18:34:28|5000|TR230001009010309422205003"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792510593198,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A9EEAC890595A3C00B4",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
