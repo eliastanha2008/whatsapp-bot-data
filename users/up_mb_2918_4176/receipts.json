@@ -20399,6 +20399,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792524356164_5llnj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0118/BILECIK SUBESI",
+        "amount": "7815",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "22:23:22",
+        "trackingNo": "7483856721",
+        "receiptNo": "10853700194",
+        "referenceCode": "F35810",
+        "senderName": "",
+        "senderIban": "TR8800010001664448268501",
+        "receiverName": "ZÜREYNE HANIM MAH. BAHÇIVAN CAD. NO: 6 / 5 ALTINDAĞ ANKARA",
+        "receiverIban": "TR1864482685001",
+        "description": "zmal nazar",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|22:23:22|7815|TR1864482685001"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792524356164,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AF14AB2B4E4A69F8886",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
