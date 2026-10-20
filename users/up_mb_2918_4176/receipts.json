@@ -15095,6 +15095,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792480182309_ipoun",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "10:06",
+        "trackingNo": "4911959456",
+        "receiptNo": "0363-03663-1020803951",
+        "referenceCode": "202610212421241",
+        "senderName": "Uğur Çetinkaya",
+        "senderIban": "TR510015700000000202312682",
+        "receiverName": "UĞUR ÇETİNKAYA",
+        "receiverIban": "TR510015700000000202312682",
+        "description": "Bireysel Ödeme, EFT (FAST)",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4911959456"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792480182309,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A173009628830B5FC7F",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
