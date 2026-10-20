@@ -14959,6 +14959,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792477816546_2fn0c",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "1000.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "09:19",
+        "trackingNo": "1672477832",
+        "receiptNo": "M-2026-10-20-09.19.57.010222",
+        "referenceCode": "",
+        "senderName": "HALIL EYKOÇ",
+        "senderIban": "TR470001200951800001024483",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "BIREYSEL ÖDEME",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792477816546,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A9744BF13467F8FD993",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
