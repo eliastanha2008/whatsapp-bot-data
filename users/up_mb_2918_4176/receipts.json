@@ -19617,6 +19617,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792514512515_qzoym",
+      "data": {
+        "isReceipt": true,
+        "bank": "Odea Bank",
+        "bankBranch": "9300-İNTERNET",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "19:39",
+        "trackingNo": "635562877287443200",
+        "receiptNo": "20102026-9300-73684",
+        "referenceCode": "",
+        "senderName": "CÜNEYT KARTAL",
+        "senderIban": "TR690014600000568449500001",
+        "receiverName": "ZİNNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792514512515,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A549FEA13CF45D4C5EF2E98DAC837310",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
