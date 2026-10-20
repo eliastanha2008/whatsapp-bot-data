@@ -17713,6 +17713,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792498326940_sc0rd",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1597/PLEVNE MAHALLESI/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "15:08:26",
+        "trackingNo": "7480859583",
+        "receiptNo": "",
+        "referenceCode": "F04646",
+        "senderName": "ABDURRAHMAN AKTAŞ",
+        "senderIban": "TR480001001597846191915001",
+        "receiverName": "ABDURRAHMAN AKTAŞ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "zınat nazon",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|15:08:26|4000|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792498326940,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A06289A213075B5B77A",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
