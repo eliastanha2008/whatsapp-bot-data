@@ -19583,6 +19583,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792514429231_9kg7w",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "19:36:16",
+        "trackingNo": "AWB4W-B-20261020156",
+        "receiptNo": "BVP2026001490108",
+        "referenceCode": "260177a7-1ba3-4754-bc01-2e1baf5149a0",
+        "senderName": "AHMET SARICI",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: AHMET SARICI , Alıcı: NIZAMUDDIN YAQUBI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|19:36:16|5000|TR340001500158007312220752"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792514429231,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A51F2646B2847A74E94",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
