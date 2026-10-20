@@ -19991,6 +19991,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792520144787_6fyik",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - ANKARA DİREKT MOBİL ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "21:12:26",
+        "trackingNo": "1398880040040930",
+        "receiptNo": "13945176006",
+        "referenceCode": "TR800001500158007392030554",
+        "senderName": "GAMZE DOĞRUYOL",
+        "senderIban": "TR800001500158007392030554",
+        "receiverName": "2.nat Nazcan",
+        "receiverIban": "",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261020|21:12:26|4000"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792520144787,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A32D2B30BA91A5EE827",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
