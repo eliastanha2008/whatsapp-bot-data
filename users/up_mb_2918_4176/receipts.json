@@ -17883,6 +17883,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792500254721_3m04p",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "NALÇACI/KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "15:40:44",
+        "trackingNo": "F13923",
+        "receiptNo": "7481203750",
+        "referenceCode": "",
+        "senderName": "ENVER ÖZKAN",
+        "senderIban": "TR350001000912722995035001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "5.000,00 TRY tutarında Fast isleminin yapilmasini, tarafima bildirilen 0,37 TRY masraf alinmasini talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|15:40:44|5000|TR350001500158007362279815"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792500254721,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A295ACF83CACEDB3831",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
