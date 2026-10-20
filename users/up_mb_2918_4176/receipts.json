@@ -16013,6 +16013,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792488073770_rss3e",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye Finans",
+        "bankBranch": "İnkılap Mah. Sokullu Cd. No: 6/3 Ümraniye İstanbul",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "12:19:00",
+        "trackingNo": "20261020-99-XHJP2",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YUNUS CAN ŞAHİS FİRMASI",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073191459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|12:19:00|5000|TR4400015001580073191459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792488073770,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2ADB6777BC3A27320A04",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
