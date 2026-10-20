@@ -18699,6 +18699,74 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792508986762_yrn06",
+      "data": {
+        "isReceipt": true,
+        "bank": "بانک صادرات ایران",
+        "bankBranch": "",
+        "amount": "800000000",
+        "currency": "IRR",
+        "date": "28/07/1405",
+        "time": "18:34:58",
+        "trackingNo": "3780",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "بسم الله الرحمنی",
+        "senderIban": "IR02050000000000000000000000",
+        "receiverName": "ناصری فارسی محمد",
+        "receiverIban": "IR02050000000000000000000000",
+        "description": "هزینه عمومی و امور روزمره",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|14050728|18:34:58|800000000|IR02050000000000000000000000"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792508986762,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A67B9DB97E828F72CC9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792508989191_md0d5",
+      "data": {
+        "isReceipt": true,
+        "bank": "بانک تجارت",
+        "bankBranch": "",
+        "amount": "250000000",
+        "currency": "IRR",
+        "date": "28/07/1405",
+        "time": "17:55",
+        "trackingNo": "26086194697",
+        "receiptNo": "",
+        "referenceCode": "BTEJ140507281755427786290221",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "محمد ناصر قاسمی",
+        "receiverIban": "IR820190000002182164300050",
+        "description": "خرید کالا",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792508989191,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A84C03379B3DA13946A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
