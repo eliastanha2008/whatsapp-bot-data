@@ -17781,6 +17781,40 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792498784727_g0y8g",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KONYA ORG. SAN.",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "15:13:22",
+        "trackingNo": "8962000272",
+        "receiptNo": "2026-10-20-15.13.19.757701",
+        "referenceCode": "",
+        "senderName": "BAHRİ TÜRK",
+        "senderIban": "TR810006200146300006643044",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|15:13:22|4500|TR35000158007362279815"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792498784727,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AE84AF8092D840148F7",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
