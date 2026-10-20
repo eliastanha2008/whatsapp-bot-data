@@ -14483,6 +14483,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792467846215_07woj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "SİNCAN/ANKARA ŞUBESİ",
+        "amount": "3700",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "20:39",
+        "trackingNo": "F07688",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MARASLI, CAKMak MAH. SERDAR SK. SINCAN ANKARA",
+        "senderIban": "TR690001001754697678355001",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792467846215,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A5996C24EA36BE7B8DB",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
