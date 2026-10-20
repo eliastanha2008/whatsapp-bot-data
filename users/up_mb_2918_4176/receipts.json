@@ -20229,6 +20229,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792522820928_0eyz7",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "15000.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "21:47:45",
+        "trackingNo": "3022537994",
+        "receiptNo": "",
+        "referenceCode": "2026014687327980",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Ahmet Muhammed Ali",
+        "receiverIban": "TR290001000795923921025001",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|21:47:45|15000|TR290001000795923921025001"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792522820928,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "3A699D0F80F835D3F9AF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
