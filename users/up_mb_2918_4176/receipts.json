@@ -15775,6 +15775,40 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792486797033_9jq50",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "İstanbul",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "11:53:47",
+        "trackingNo": "3858387972",
+        "receiptNo": "742074002930",
+        "referenceCode": "20.10.2026/447/8888/8888",
+        "senderName": "İBRAHİM ALPEREN AŞCI",
+        "senderIban": "TR020006400000174200617368",
+        "receiverName": "ZİNAİ NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "İBRAHİM ALPEREN AŞCI tarafından aktarılacak",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|11:53:47|5000|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792486797033,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3AD5E9FB75591540F177",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
