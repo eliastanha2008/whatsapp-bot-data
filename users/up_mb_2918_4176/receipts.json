@@ -17849,6 +17849,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792499961089_hkrgb",
+      "data": {
+        "isReceipt": true,
+        "bank": "TEB",
+        "bankBranch": "CEPTE TEB",
+        "amount": "3900",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "15:36",
+        "trackingNo": "768592877",
+        "receiptNo": "308455534",
+        "referenceCode": "00451659",
+        "senderName": "MAHMUT CEVIZLI",
+        "senderIban": "TR2500030000000118649968",
+        "receiverName": "Atosa Şahin",
+        "receiverIban": "TR490001009010129955305001",
+        "description": "y",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792499961089,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A6C49CB8D65B31EFF66",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
