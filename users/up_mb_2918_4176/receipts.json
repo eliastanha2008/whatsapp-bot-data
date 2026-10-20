@@ -20875,6 +20875,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792530371984_shl7h",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "İnternet Bankacılığı",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "00:05:19",
+        "trackingNo": "517832197675",
+        "receiptNo": "3711539",
+        "referenceCode": "2549473755843",
+        "senderName": "",
+        "senderIban": "TR920006701000000051464023",
+        "receiverName": "Türkiye Vakıflar Bankası T.A.Ö.",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "İnternet Bankacılığı",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|00:05:19|4500|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792530371984,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A57B983000F2EC410C7",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
