@@ -14789,6 +14789,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792471526607_c5y9i",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "07:41:01",
+        "trackingNo": "AG4I7-B-202610207",
+        "receiptNo": "BDM2026002487126",
+        "referenceCode": "5770fc8c-eaf3-4f3f-89be-8251c208fa36",
+        "senderName": "AHMET ÜÇLER",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "",
+        "description": "Gönderen: AHMET ÜÇLER , Alıcı: JAWID USMANI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|07:41:01|4500"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792471526607,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A07AFDD2A7A5E205A85",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
