@@ -15197,6 +15197,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792482519128_t1dt2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Çeşitli Şube",
+        "amount": "3850.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "10:47",
+        "trackingNo": "4912056185",
+        "receiptNo": "202610221779537",
+        "referenceCode": "0363-03663-1020895256",
+        "senderName": "SERHAT TURK",
+        "senderIban": "TR290015700000000205105999",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "AÇIKLAMA-Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4912056185"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792482519128,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A3309E4B50A7F708D12",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
