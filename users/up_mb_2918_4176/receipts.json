@@ -19175,6 +19175,108 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792511752822_yxgu2",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.S.",
+        "bankBranch": "SINCAN ANKARA CADDESI SUBESI",
+        "amount": "3800.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "18:49:58",
+        "trackingNo": "147532216",
+        "receiptNo": "01337-2551745",
+        "referenceCode": "TR76000100000000001788354",
+        "senderName": "BIRKAR GOMGUSBAŞ",
+        "senderIban": "TR76000100000000001788354",
+        "receiverName": "ZİNAAT NAZARİ Türkiye Varlık Bankası",
+        "receiverIban": "TR76000100000000001788354",
+        "description": "BSMV Tahsilat",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|18:49:58|3800|TR76000100000000001788354"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792511752822,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2ACEAF1674D7238FB9D8",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792511822531_qwuxe",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2683/HOCAHİHAN/KONYA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "18:49:38",
+        "trackingNo": "F15903",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MEHMET AĞAÇ",
+        "senderIban": "TR140001002683546314635004",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|18:49:38|4500|TR230001009010309422205003"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792511822531,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A322A0E76764FF1C52E",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792512081175_37vvm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Cep Şube",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "18:59",
+        "trackingNo": "4913570366",
+        "receiptNo": "202610218380286",
+        "referenceCode": "03663-03663-1022175128",
+        "senderName": "Serhat Türk",
+        "senderIban": "TR2900157000000000205105999",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Aidat ödemesi",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4913570366"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792512081175,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5CAC20921CF73CFA1BD04EEACE809D6",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
