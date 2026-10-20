@@ -20195,6 +20195,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792522336681_gkycr",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye Vakıflar Bankası T.A.O.",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "3800.00",
+        "currency": "TRY",
+        "date": "20/10/2026",
+        "time": "21:43:57",
+        "trackingNo": "3860449270",
+        "receiptNo": "420424003893",
+        "referenceCode": "20.10.2026/447/88888/8888",
+        "senderName": "YUSUF KARATAŞ",
+        "senderIban": "TR080006400000142040814534",
+        "receiverName": "Zinat nazarı",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "YUSUF KARATAŞ tarafından aktarılan",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|21:43:57|3800|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792522336681,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A0E6E42EA73077F6706",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
