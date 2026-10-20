@@ -16081,6 +16081,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792488697307_eux75",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "İVEDİK",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "12:29:09",
+        "trackingNo": "1851000172",
+        "receiptNo": "2026-10-20-12.29.07.961128",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR910006200149500006656769",
+        "receiverName": "ZİNNAT NAZARİ",
+        "receiverIban": "TR80000150015800739203005554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|12:29:09|5000|TR80000150015800739203005554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792488697307,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A56F9A27CAC049B17DC",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
