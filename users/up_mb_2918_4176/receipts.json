@@ -15707,6 +15707,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792485683282_w317m",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KARATAY SANAYİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "11:40:48",
+        "trackingNo": "1713000141",
+        "receiptNo": "2026-10-20-11.40.44.400997",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR500006200051900006672960",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ISI",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|11:40:48|4000|TR440001500158007391459193"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792485683282,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A00955C0BF8D1FAA4A1",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
