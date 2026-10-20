@@ -20025,6 +20025,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792520507879_xrwb9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1937/ÇUKURAMBAR/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "20/10/2026",
+        "time": "21:20:12",
+        "trackingNo": "7483608101",
+        "receiptNo": "",
+        "referenceCode": "F08371",
+        "senderName": "YUSUF MERT YİĞİT",
+        "senderIban": "TR66000100193756038059502",
+        "receiverName": "ZİNAZ NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "5.000,00 TRY tutarında Fast işlemi",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|21:20:12|5000|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792520507879,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A56DD5AB2C814E86B8F4EE00F5D84001",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
