@@ -16931,6 +16931,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792493984968_vbc36",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "13:46",
+        "trackingNo": "4912567305",
+        "receiptNo": "202610214683519",
+        "referenceCode": "03663-03663-1021349330",
+        "senderName": "Sertan Yilmaz",
+        "senderIban": "TR3300157000000000205315350",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Bireysel Odeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4912567305"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792493984968,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A9301C061D5392ABCB3",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
