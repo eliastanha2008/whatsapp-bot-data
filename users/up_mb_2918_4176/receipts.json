@@ -16829,6 +16829,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792493505135_bqzc1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1916/BİNKONUTLAR/KONYA ŞUBESİ",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "13:50:20",
+        "trackingNo": "F09336",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR270001001916775997695005",
+        "receiverName": "KHAN MOHAMMAD TURKMAN",
+        "receiverIban": "TR660001000261913484945001",
+        "description": "Alacaklı Şube: 261-KIRŞEHİR ŞUBESİ, Alacaklı Hesap: 91348494 5001",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|13:50:20|4500|TR660001000261913484945001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792493505135,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AD69FE26DD4E48E56D6",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
