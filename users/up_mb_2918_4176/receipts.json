@@ -19413,6 +19413,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792513007143_5m8ku",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4008.37",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "19:10:28",
+        "trackingNo": "48861381/385156",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "BURAK KAVLAK",
+        "senderIban": "TR290004600005888000815138",
+        "receiverName": "Zinat Nazari",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261020|19:10:28|4008.37|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792513007143,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A57324570E15902C713FA413D9E2E541",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
