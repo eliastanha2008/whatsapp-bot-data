@@ -18971,6 +18971,40 @@
         "participantAlt": "93788400074@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792510252739_xztlq",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "10000.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "18:30:11",
+        "trackingNo": "41707586 / 319274",
+        "receiptNo": "TR930004600401888000160679",
+        "referenceCode": "",
+        "senderName": "HAFİZE KARALAR",
+        "senderIban": "TR930004600401888000160679",
+        "receiverName": "Zinat Nazari",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261020|18:30:11|10000|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792510252739,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5848D1678A9AD07BEA74B5660F88BAB",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
