@@ -19515,6 +19515,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792513967500_hssqs",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Umraniye/İSTANBUL",
+        "amount": "3885.38",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "19:27:11",
+        "trackingNo": "Z1748452",
+        "receiptNo": "",
+        "referenceCode": "0922003497000017",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "KARTSIZ PARA YATIRMA",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|19:27:11|3885.38"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792513967500,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A55FE9C87244E118BB6DC7F5FBFC9DBA",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
