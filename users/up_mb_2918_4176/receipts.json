@@ -20637,6 +20637,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792525819857_z0us3",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "AKBANK DIREKT MOBIL CEP",
+        "amount": "3700.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "22:49:23",
+        "trackingNo": "15286175656",
+        "receiptNo": "469503631600000",
+        "referenceCode": "TR800001500158007392030554",
+        "senderName": "HATICE SIVITAS",
+        "senderIban": "TR80000100064888000359450",
+        "receiverName": "Zinat Nazcan",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "VALNJ UCNR YENIDÖRSEKIZ TL OTUZDÖR KR",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261020|22:49:23|3700|TR800001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792525819857,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AF624FE831F76B2F95C",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
