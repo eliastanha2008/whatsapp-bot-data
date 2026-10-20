@@ -18631,6 +18631,74 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792508273393_0sjwf",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "UFUKTEPE / KEÇİÖREN",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "17:53:22",
+        "trackingNo": "7591000394",
+        "receiptNo": "2026-10-20-17.53.22.806662",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR900006200135700006599665",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|17:53:22|5000|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792508273393,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A04D166B775EB4B31F5",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792508832497_10w61",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Çeşit Şube",
+        "amount": "4.000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "18:00:23",
+        "trackingNo": "4825260276",
+        "receiptNo": "202609167818961",
+        "referenceCode": "03663-03663-89478421",
+        "senderName": "Doğan Yaşar",
+        "senderIban": "TR900015700000000122175918",
+        "receiverName": "ALICI UNVANI:ZİNAAT NAZARI ALICI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "ACIKLAMA:Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4825260276"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792508832497,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AE9D24A86C0A9CAEE93",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
