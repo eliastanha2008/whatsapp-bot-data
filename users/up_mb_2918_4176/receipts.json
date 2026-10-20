@@ -14823,6 +14823,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792471973476_qpcs4",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.S.",
+        "bankBranch": "SINCAN ANKARA CADDESI SUBESI",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "07:51:41",
+        "trackingNo": "202610198779224",
+        "receiptNo": "01337-2547423",
+        "referenceCode": "143753216",
+        "senderName": "BSSM TATBISAT",
+        "senderIban": "TR67000100000000187188354",
+        "receiverName": "Nazan Zeynep Turkiye Vakiflar Bankasi T",
+        "receiverIban": "TR67000100000000187188354",
+        "description": "3.31 EFT Ucret",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|07:51:41|4000|TR67000100000000187188354"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792471973476,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A666ECE99C9624C40FF",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
