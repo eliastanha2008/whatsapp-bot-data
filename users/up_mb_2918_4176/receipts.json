@@ -18563,6 +18563,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792507629956_0qaau",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "NALÇACI ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "17:43:08",
+        "trackingNo": "1726102038293346",
+        "receiptNo": "00425-1713889",
+        "referenceCode": "202610203829331",
+        "senderName": "AHMET KAYA",
+        "senderIban": "TR5100111000000000148164762",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Bireysel Odeme",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|17:43:08|5000|TR230001009010309422205003"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792507629956,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A97251FA42B4388DB10",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
