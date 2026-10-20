@@ -15741,6 +15741,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792486060874_06ona",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "KEÇİÖREN/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "14:46:18",
+        "trackingNo": "7479340316",
+        "receiptNo": "",
+        "referenceCode": "F05611",
+        "senderName": "",
+        "senderIban": "TR880001000811813990365001",
+        "receiverName": "NURDANE EZGIN",
+        "receiverIban": "TR88000150015800739203050100",
+        "description": "zinat nazari",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|14:46:18|5000|TR88000150015800739203050100"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792486060874,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A5F1A1B062CD621BD15",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
