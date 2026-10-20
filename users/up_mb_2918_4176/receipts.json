@@ -15129,6 +15129,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792480795738_spcqz",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "10:18",
+        "trackingNo": "1672590016",
+        "receiptNo": "M-2026-10-20-10.18.35.075587",
+        "referenceCode": "",
+        "senderName": "MEHMET ÖZDEMİR",
+        "senderIban": "TR830001200939200001059870",
+        "receiverName": "ZİNAZ NAZARİ",
+        "receiverIban": "TR80000158007392030554",
+        "description": "GİDEN FAST - MEHMET ÖZDEMİR TARAFINDAN GÖNDERİLEN",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792480795738,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2A3F00E6DBF6CF340D3D",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
