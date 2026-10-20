@@ -19447,6 +19447,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792513114082_tctrj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "MEŞRUTİYET CADDESİ",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "19:17:58",
+        "trackingNo": "266000472",
+        "receiptNo": "2026-10-20-19.17.56.329626",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR280006200052800006645860",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|19:17:58|4300|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792513114082,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5660C2C24D577DEBB6ED5C3E8B7BF1A",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
