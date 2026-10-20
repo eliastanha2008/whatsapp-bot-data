@@ -17917,6 +17917,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792500325758_vv6lf",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1345/ESKİL/AKSARAY ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "15:41:14",
+        "trackingNo": "7481226885",
+        "receiptNo": "F09064",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR810001001345907020375001",
+        "receiverName": "RABİA ÜNLÜ",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "5.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|15:41:14|5000|TR350001500158007362279815"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792500325758,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AB898225FB61DE129F4",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
