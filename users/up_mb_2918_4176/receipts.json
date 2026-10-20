@@ -15911,6 +15911,74 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792487154475_rwr8o",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0877/ETİMESGUT/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "12:04:24",
+        "trackingNo": "7479488002",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR850001000877691437",
+        "receiverName": "NECLA TOK",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "ALICI HESAP: TR80 0001 5001 5800 7392 0305 54 Adı Soyadı: NECLA TOK",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|12:04:24|5000|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792487154475,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A6B257465B74129566A",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792487300519_p0wtg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "12:07:04",
+        "trackingNo": "AK7AB-B-20261020113",
+        "receiptNo": "BPN2026001089406",
+        "referenceCode": "1ce73cf1-2116-4006-b907-b0f037ec370c",
+        "senderName": "FATİH KOYUNCU",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "",
+        "description": "Gönderen: FATİH KOYUNCU , Alıcı: JAWID USMANI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|12:07:04|4000"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792487300519,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A44F125E924EEE67884",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
