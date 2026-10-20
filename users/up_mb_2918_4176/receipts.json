@@ -19685,6 +19685,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792515433971_5wzv0",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "LEVENT ŞUBESİ",
+        "amount": "24000.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "19:54:47",
+        "trackingNo": "202610204862681",
+        "receiptNo": "00905-1993289",
+        "referenceCode": "12727189975",
+        "senderName": "SAMİ BEKAR",
+        "senderIban": "TR550011100000000122943041",
+        "receiverName": "ZİNAZ NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Bireysel Ödeme",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261020|19:54:47|24000|TR800001500158007392030554"
+      },
+      "sender": "93356164169811",
+      "timestamp": 1792515433971,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429109435477@g.us",
+        "fromMe": false,
+        "id": "3A465C1265EF5F8B5AED",
+        "participant": "93356164169811@lid",
+        "participantAlt": "93788400074@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
