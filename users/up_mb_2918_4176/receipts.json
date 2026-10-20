@@ -17679,6 +17679,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792497664492_xzxcw",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4426.00",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "14:54:28",
+        "trackingNo": "TR20000401283888000093104",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ABDULLAH BOYALI",
+        "senderIban": "TR20000401283888000093104",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261020|14:54:28|4426|TR350001500158007362279815"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792497664492,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AB23CAC70C9931F8735",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
