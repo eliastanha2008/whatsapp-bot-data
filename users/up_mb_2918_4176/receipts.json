@@ -17441,6 +17441,74 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792496654184_p20hl",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "20/10/2026",
+        "time": "14:43",
+        "trackingNo": "4912744788",
+        "receiptNo": "202610215326693",
+        "referenceCode": "03663-03663-1021499227",
+        "senderName": "Yiğit Uygun",
+        "senderIban": "TR0300157000000000202502308",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4912744788"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792496654184,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AD97B630BF6447CB4E1",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792496768345_zxzaq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0743/GOLBASI/ANKARA SUBESI",
+        "amount": "4100.00",
+        "currency": "TRY",
+        "date": "20/10/2026",
+        "time": "14:44:22",
+        "trackingNo": "7480744719",
+        "receiptNo": "",
+        "referenceCode": "F08939",
+        "senderName": "ALİ İHSAN PETEK",
+        "senderIban": "TR460001000743623565875002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.100,00 TRY tutarinda Fast isleminin yapilmasini, Bu islem icin tarafimda bildirilen 8,37 TRY masraf alinmasini talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261020|14:44:22|4100|TR350001500158007362279815"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792496768345,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A7164E590251B95871A",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
