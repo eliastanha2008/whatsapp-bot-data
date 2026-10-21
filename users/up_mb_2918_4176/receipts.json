@@ -22439,6 +22439,74 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792578085024_of6nv",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "13:19:04",
+        "trackingNo": "635829407155687424",
+        "receiptNo": "",
+        "referenceCode": "21102026 - 9300 - 24360787",
+        "senderName": "MEHMET İGERTAŞ",
+        "senderIban": "TR750013400001554365000001",
+        "receiverName": "RAHMATULLAHKİMİ",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Yukarıda detay bilgileri verilen FAST işlemi için 3905-15543650-351 hesabınıza toplam 4.500,00 TL Borç kaydedilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261021|13:19:04|4500|TR230001009010309422205003"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792578085024,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AD391DA2F104FEED5A8",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792578087485_c1lp5",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "13:18:38",
+        "trackingNo": "41591649 / 340495",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "METİN PEKERŞEN",
+        "senderIban": "TR760004601283888000095739",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261021|13:18:38|4500|TR230001009010309422205003"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792578087485,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2ACC38C0493E9EA9399F",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
