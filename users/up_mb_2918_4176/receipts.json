@@ -21283,6 +21283,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792564510437_lvaa5",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1989/ÇAYYOLU/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "09:34:25",
+        "trackingNo": "7484987838",
+        "receiptNo": "",
+        "referenceCode": "F00837",
+        "senderName": "JAWID U",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "RECEP SARIĞÜNEY",
+        "receiverIban": "TR560001001989939371565001",
+        "description": "4.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261021|09:34:25|4000|TR560001001989939371565001"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792564510437,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AEBB838215BF04FF01A",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
