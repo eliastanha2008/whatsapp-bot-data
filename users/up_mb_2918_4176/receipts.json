@@ -21589,6 +21589,40 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792571610817_oah3r",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "10000.00",
+        "currency": "TRY",
+        "date": "21/10/2026",
+        "time": "11:32:51",
+        "trackingNo": "3861351824",
+        "receiptNo": "452068002779",
+        "referenceCode": "21.10.2026/447/8888/8888",
+        "senderName": "HAMDI GENCER",
+        "senderIban": "TR170006400000145201009188",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001580058007312220752",
+        "description": "HAMDI GENCER tarafindan aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261021|11:32:51|10000|TR340001580058007312220752"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792571610817,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AA8A65FC83B8346237C",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
