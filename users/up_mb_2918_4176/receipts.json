@@ -21317,6 +21317,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792565832586_jstg1",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "09:47:30",
+        "trackingNo": "2026014702886111",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "REYHAN MERVE KOÇAKGİL",
+        "senderIban": "TR1200015001582286",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261021|09:47:30|4500|TR440001500158007391459193"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792565832586,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A416E5F6775C355AF17",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
