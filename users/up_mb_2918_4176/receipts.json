@@ -21249,6 +21249,40 @@
         "participantAlt": "93782719155@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792564037316_k8d5q",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NATOYOLU / ANKARA",
+        "amount": "4300.00",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "09:26:28",
+        "trackingNo": "1463000068",
+        "receiptNo": "2026-10-21-09.26.24.480686",
+        "referenceCode": "",
+        "senderName": "HAMİT DÖNMEZ",
+        "senderIban": "TR660006200125700006883158",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261021|09:26:28|4300|TR440001500158007391459193"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792564037316,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4AD7FD37A3A6323BCBC4",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
