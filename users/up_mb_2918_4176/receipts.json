@@ -22065,6 +22065,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792575586057_ua7f1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2683/HOCAÇİHAN/KONYA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "12:37:00",
+        "trackingNo": "F06305",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR790001002683607074245002",
+        "receiverName": "İSMAİL KEKLİK",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Alacaklı Şube : 2783-HÜDAVENT HATUN/NİĞDE ŞUBESİ Alacaklı Hesap : 103094222 5003 Alacaklı IBAN : TR23 0001 0090 1030 9422 2050 03 Alacaklı Adı Soyadı : RAHMATULLAH HAKIMI Alacaklı Vergi No : Komisyon : 4,19 TRY Havale Tutarı : 4.500,00 TRY",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261021|12:37:00|4500|TR230001009010309422205003"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792575586057,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2AC2CD187585AEE22164",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
