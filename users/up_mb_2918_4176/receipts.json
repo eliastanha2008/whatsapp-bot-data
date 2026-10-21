@@ -21861,6 +21861,40 @@
         "participantAlt": "93748745352@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792574221562_kj46f",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2329/YEŞİLBAYIR/ANKARA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "12:15:51",
+        "trackingNo": "F03227",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ÖZKAN ÖZMEN",
+        "senderIban": "TR800001002329757016335004",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261021|12:15:51|4000|TR230001009010309422205003"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792574221563,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A98FF59BC0B201FC0FC",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
