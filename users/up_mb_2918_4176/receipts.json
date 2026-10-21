@@ -22099,6 +22099,108 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792575588220_b149d",
+      "data": {
+        "isReceipt": true,
+        "bank": "PttBank",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "12:37:00",
+        "trackingNo": "347654",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "KAMURAN SOLAK",
+        "senderIban": "TR18290503",
+        "receiverName": "Ra***** Ha*****",
+        "receiverIban": "TR235003",
+        "description": "BİREYSEL ÖDEME",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261021|12:37:00|4500|TR235003"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792575588220,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A0EAC7CBD6AF294DE1A",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792575602846_m7f39",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.S.",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "3980.00",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "12:36:11",
+        "trackingNo": "45810223",
+        "receiptNo": "2026/10211624899",
+        "referenceCode": "3329204",
+        "senderName": "UGUR EMROGLU",
+        "senderIban": "TR00001100000000016178840",
+        "receiverName": "Abdulkadir Aymag Turkiye Cumhuriyeti",
+        "receiverIban": "TR00001100000000016178840",
+        "description": "BSM: Tahsilat",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261021|12:36:11|3980|TR00001100000000016178840"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792575602846,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2ACF45048E27F605EF3E",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792575677334_gji0h",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "12:39:29",
+        "trackingNo": "AKAYB-B-20261021105",
+        "receiptNo": "BNV2026001471424",
+        "referenceCode": "c3cbc849-4158-4417-b34d-eb85d2aebfc8",
+        "senderName": "BAHADIR YANMAZ",
+        "senderIban": "TR660001000261913484945001",
+        "receiverName": "Khan Mohammad Turkman",
+        "receiverIban": "",
+        "description": "Gönderen: BAHADIR YANMAZ, Alıcı: Khan Mohammad Turkman, IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261021|12:39:29|3000"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792575677334,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4ACB07462FB1EE9E9CA7",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
