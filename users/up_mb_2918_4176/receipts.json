@@ -21895,6 +21895,108 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792574225717_6cz8z",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2449/ALTIEYLÜL/BALIKESIR SUBESİ",
+        "amount": "4700.00",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "12:04:24",
+        "trackingNo": "7485853680",
+        "receiptNo": "",
+        "referenceCode": "F05831",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001002449823359855001",
+        "receiverName": "MÜKREMİN ÇETİN",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "4.700,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261021|12:04:24|4700|TR440001500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792574225717,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A6638BDED6DB3849540",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792574228018_ho7h5",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "12:04:43",
+        "trackingNo": "53908231",
+        "receiptNo": "218859",
+        "referenceCode": "",
+        "senderName": "ARSEL SAĞLIK",
+        "senderIban": "TR880004600221888000294511",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261021|12:04:43|5000|TR440001500158007391459193"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792574228018,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A406F37148B11C36F40",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792574230128_3l1pa",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KARATAY SANAYI",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "12:11:52",
+        "trackingNo": "2099000144",
+        "receiptNo": "2026-10-21-12.11.47.261169",
+        "referenceCode": "",
+        "senderName": "MEHMET YEL",
+        "senderIban": "TR190006200051900006645776",
+        "receiverName": "KHAN MOHAMMAD TURKMAN",
+        "receiverIban": "TR66000100026191348494550001",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261021|12:11:52|4700|TR66000100026191348494550001"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792574230128,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A6ADBB1BEE3678D49EB",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
