@@ -21453,6 +21453,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792568546587_z2v7n",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "10:41:26",
+        "trackingNo": "AI3T3-B-20261021113",
+        "receiptNo": "BPN2026001095278",
+        "referenceCode": "7588cc65-fd05-452a-bdee-5062c6b92dec",
+        "senderName": "FATİH KOYUNCU",
+        "senderIban": "TR660001000261913484945001",
+        "receiverName": "Khan Mohammad Turkman",
+        "receiverIban": "",
+        "description": "Gönderen: FATİH KOYUNCU , Alıcı: Khan Mohammad Turkman , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261021|10:41:26|4000"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792568546587,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A50AEB76ED1D19F5537",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
