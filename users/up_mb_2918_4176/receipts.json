@@ -22643,6 +22643,74 @@
         "participantAlt": "93764347913@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792579332917_azhc4",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "S2112902",
+        "amount": "200.00",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "13:41:12",
+        "trackingNo": "",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Diğer",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261021|13:41:12|200"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792579332917,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A56B80EF7DBA9447FBD9ABACA5A577E5",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792579450879_tk1g3",
+      "data": {
+        "isReceipt": true,
+        "bank": "TEB",
+        "bankBranch": "Kağıthane-476",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "13:42",
+        "trackingNo": "00003230",
+        "receiptNo": "20162010",
+        "referenceCode": "769060018",
+        "senderName": "ÖZKAN KÜÇÜKATEŞ",
+        "senderIban": "TR6300030000000156364242",
+        "receiverName": "SAWID USMANE",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "A",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792579450879,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4A6B226940EE8489837A",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
