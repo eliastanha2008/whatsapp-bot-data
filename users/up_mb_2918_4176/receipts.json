@@ -21521,6 +21521,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792569686549_flu9t",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "11:00:03",
+        "trackingNo": "AIFEZ-B-20261021105",
+        "receiptNo": "BNV2026001470394",
+        "referenceCode": "a282440a-0e21-4f19-8326-eee25ccd1d30",
+        "senderName": "BAHADIR YANMAZ",
+        "senderIban": "TR23000100901030942205003",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "",
+        "description": "Gönderen: BAHADIR YANMAZ, Alıcı: Rahmatullah Hakimi, IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261021|11:00:03|4500"
+      },
+      "sender": "45174969340070",
+      "timestamp": 1792569686549,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "4ADB468C22AEE98F4A08",
+        "participant": "45174969340070@lid",
+        "participantAlt": "93700383597@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
