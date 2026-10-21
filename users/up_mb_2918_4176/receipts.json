@@ -21215,6 +21215,40 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792563449600_86jde",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SINCAN",
+        "amount": "3850.00",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "09:15:25",
+        "trackingNo": "824000567",
+        "receiptNo": "2026-10-21-09.15.21.449938",
+        "referenceCode": "",
+        "senderName": "MUZAFFER DEMIRBAS",
+        "senderIban": "TR84000100020004550006878575",
+        "receiverName": "ZINAT HAZARI",
+        "receiverIban": "TR900001500158007392030554",
+        "description": "YALNIZ UcBinSekizYuzElliTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261021|09:15:25|3850|TR900001500158007392030554"
+      },
+      "sender": "166817234452713",
+      "timestamp": 1792563449600,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363413874554159@g.us",
+        "fromMe": false,
+        "id": "2AD0843CBC8E4EC501DE",
+        "participant": "166817234452713@lid",
+        "participantAlt": "93782719155@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
