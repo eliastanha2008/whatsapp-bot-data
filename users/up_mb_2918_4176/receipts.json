@@ -22269,6 +22269,74 @@
         "participantAlt": "93700383597@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792577264970_sq7bn",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "NALÇACI",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "21/10/2026",
+        "time": "13:06:21",
+        "trackingNo": "4163000195",
+        "receiptNo": "2026-10-21-13.06.18.783476",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR03000620004190006999838",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261021|13:06:21|4500|TR230001009010309422205003"
+      },
+      "sender": "17309339001050",
+      "timestamp": 1792577264970,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430182927376@g.us",
+        "fromMe": false,
+        "id": "2A48046A583175B9EB35",
+        "participant": "17309339001050@lid",
+        "participantAlt": "93764347913@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792577352376_w3beb",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1754/ATATÜRK CADDESI-SINCAN/ANKARA ŞUBESİ",
+        "amount": "4500.00",
+        "currency": "TRY",
+        "date": "21/10/2026",
+        "time": "13:08:25",
+        "trackingNo": "7486310765",
+        "receiptNo": "F03253",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR270001001754619973995013",
+        "receiverName": "MERT AYHAN",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "ZİNAT NAZARI",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261021|13:08:25|4500|TR800001500158007392030554"
+      },
+      "sender": "227131577655353",
+      "timestamp": 1792577352376,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363408830418054@g.us",
+        "fromMe": false,
+        "id": "A5C473C13F33F26347CDC592CEFEF0BB",
+        "participant": "227131577655353@lid",
+        "participantAlt": "93748745352@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
